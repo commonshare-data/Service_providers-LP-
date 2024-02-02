@@ -1,0 +1,116 @@
+kind: "Service Providers"
+hero:
+  title: Supply Chain Mapping
+  slug: supply-chain-mapping
+  subtitle: CommonShare links you to certified Supply Chain Mapping experts worldwide, simplifying the process for businesses and organizations in search of professional guidance on sustainability and environmental impact assessments.
+
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name: "Sedex"
+      slug: Sedex
+      location: UK
+      description: "Sedex, a global tech company empowering supply chain sustainability through data, insights, and professional services."
+    - name: "Flowspace"
+      slug: flowspace
+      location: 'USA'
+      description: "Flowspace, an ecommerce fulfillment platform ensuring real-world post-purchase expectations. Integrated cloud-based software across +150 fulfillment centers for fast, affordable, omnichannel fulfillment with real-time visibility."
+    - name:  Sustain.Life 
+      slug: 'sustain.life'
+      location: 'USA'
+      description:  "Sustain.Life is backed by a global, fully remote team of technology and sustainability experts."
+    - name: 'Maptive'
+      slug: 'maptive'
+      location: 'USA'
+      description: Fully dedicated since 2010, Maptive are a licensed Google Maps for Business partner. Offering global coverage, speed, and customization, 
+    - name: "PREDIK Data-Driven"
+      slug: 'predik-data-driven'
+      location: 'Mexico'
+      description:  With over 13 years of experience, It's a research firm delivering innovative market intelligence and data analytics solutions to businesses in Mexico, Latin America, and the USA
+    - name: 'Systems2win'
+      slug: systems2win
+      location: USA
+      description: Trusted since December 2002, Systems2win provides Lean practitioners with user-friendly Excel templates, online training, and innovative systems for substantial improvements in process speed, quality, and cost customization.
+   
+    - name: Sourcemap
+      slug: sourcemap
+      location: USA
+      description:  "Sourcemap, founded in 2011, provides supply chain transparency. It's software helps trace products, ensure standards, and visualize complex trade networks."
+    
+    - name: 'Segura'
+      slug: segura
+      location: 'UK'
+      description: "Segura: Ethical, sustainable, end-to-end supply chains. Innovative technology, client-driven design."
+
+value_proposition:
+  points:
+      - Explore CommonShare for global supply chain mapping expertise.
+      - Discover specialists tailored to your unique needs.
+      - CommonShare connects you with the perfect solution for sustainable supply chain projects.
+
+#standards related 
+industry_highlights:
+  title: "Standards Related to Supply Chain Mapping"
+  stats:
+    - text: "Supply Chain Operations Reference Digital Standard (SCOR DS): What it is: The SCOR DS is a model designed to facilitate improvements in supply chain processes through methodology, diagnostic tools, and benchmarking. Developed by the Association for Supply Chain Management (ASCM), it serves as a comprehensive guide for supply chain professionals to enhance their understanding of global standards and practices."
+    - text:  "GS1 Standards play a vital role in ensuring efficiency and safety within supply chain operations. These standards provide a common language and framework for businesses to manage their supply chain processes, enhancing overall performance. GS1 Standards facilitate the identification, capture, and sharing of information consistently across the globe."
+    
+  sections:
+    - Discover how CommonShare can assist you in locating top-tier software solutions in Scope 3 emissions worldwide.
+    - Whether you're initiating a Scope 3 emissions analysis project or facing challenges in locating an expert with the necessary proficiency, CommonShare links you to the ideal solution.
+
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About Supply Chain Mapping"
+  sections:
+      - In the complex landscape of global commerce, understanding and optimizing supply chains have become imperative for businesses seeking sustainability and efficiency. Supply chain mapping emerges as a crucial tool, providing organizations with a comprehensive view of their supply chain processes and the associated environmental, social, and economic impacts.
+      - 'Defining Supply Chain Mapping:'
+      - Supply chain mapping is a strategic approach that involves the visual representation and documentation of all processes, entities, and interactions within a supply chain. It goes beyond the traditional linear view of supply chains and provides a holistic understanding of the entire network, from raw material sourcing to the end consumer. This mapping process includes identifying suppliers, manufacturers, distributors, retailers, and other stakeholders involved in the production and distribution of goods and services.
+      - "The Mapping Process:"
+      - The process typically begins with data collection, where organizations gather information on every entity within the supply chain. This data encompasses not only the physical flow of goods but also information flows, financial transactions, and other relevant details. The collected data is then organized and visualized using various tools and technologies, creating a comprehensive map that showcases the interconnected nature of the supply chain.
+      - "Why Supply Chain Mapping Matters:"
+      - "Environmental Impact:Identification of Carbon Footprint: Supply chain mapping allows organizations to identify and quantify their carbon footprint by analyzing emissions at each stage of the supply chain. This understanding is crucial for setting sustainability goals and implementing initiatives to reduce environmental impact."
+      - "Resource Efficiency: Mapping helps identify inefficiencies in resource usage, enabling organizations to optimize processes and reduce waste. This is particularly relevant in industries with resource-intensive production processes."
+      - "Social Responsibility: Labor Practices: Supply chain mapping facilitates the identification of suppliers and subcontractors, allowing organizations to assess and ensure compliance with ethical labor practices. This is crucial for maintaining social responsibility and avoiding involvement in exploitative labor conditions."
+      - "Human Rights and Ethical Sourcing: Through mapping, organizations can trace the origins of raw materials, ensuring they are sourced ethically and in compliance with human rights standards. This is especially important in industries with complex and globalized supply chains."
+      - "Economic Resilience: Risk Management: Understanding the intricacies of the supply chain helps organizations identify potential risks, such as disruptions in the flow of goods or geopolitical issues. With this knowledge, businesses can implement strategies to enhance their resilience and adaptability to changing market conditions. Cost Optimization: Mapping allows organizations to pinpoint areas of inefficiency and redundancy, enabling them to optimize costs by streamlining processes and reducing unnecessary expenditures." 
+      - "Who Supply Chain Mapping Applies To :"
+      - "Manufacturing Industries: Complex Supply Chains: Manufacturing industries often have intricate and extensive supply chains involving multiple suppliers, manufacturers, and distributors. Mapping helps identify areas for improvement and optimization in these complex networks"
+      - "Retail and Consumer Goods: Distribution Challenges: Retailers and consumer goods companies face challenges related to distribution, inventory management, and consumer demand fluctuations. Supply chain mapping assists in optimizing logistics and ensuring products reach the right place at the right time."
+      - "Service Industries: Logistics and Procurement: Even service-oriented industries rely on supply chains for logistics and procurement. Mapping aids in identifying and optimizing these aspects, contributing to overall operational efficiency."
+      - "Technology and IT: Electronics and Hardware Production: The technology sector often deals with intricate supply chains involving various components and materials. Supply chain mapping is essential for identifying potential risks and optimizing processes in electronics and hardware production."
+      - "Financial Institutions: Investment and Risk Assessment: Financial institutions benefit from supply chain mapping in assessing the sustainability and risk associated with their investments. Mapping helps in making informed decisions and avoiding investments with significant environmental or social risks."
+      - "Healthcare: Pharmaceutical Supply Chains: In the pharmaceutical industry, where product safety is paramount, supply chain mapping ensures traceability and compliance with regulatory standards. It aids in optimizing the production and distribution of critical healthcare products."
+      - "Automotive Industry: Global Supply Networks: The automotive sector relies on a vast network of suppliers and manufacturers. Supply chain mapping is instrumental in identifying vulnerabilities, ensuring timely delivery of components, and enhancing overall efficiency."
+      - "Food and Agriculture: Traceability and Quality Control: In the food and agriculture sector, supply chain mapping is crucial for traceability, quality control, and adherence to food safety standards. It helps in identifying potential sources of contamination and ensuring compliance with regulatory requirements"
+      - 'Addressing challenges in supply chain mapping involves navigating issues related to data accuracy and transparency, interconnected global supply chains, and collaboration among stakeholders. Firstly, obtaining precise and transparent data from suppliers and stakeholders can be a hurdle, potentially compromising the reliability of supply chain mapping initiatives. To overcome this, implementing cutting-edge technologies like blockchain and the Internet of Things (IoT) can significantly enhance data accuracy and transparency by establishing secure and immutable records of transactions and processes. Secondly, managing and mapping intricate, interconnected global supply chains presents challenges in terms of visibility and risk assessment. Leveraging advanced analytics and machine learning algorithms becomes crucial in gaining insights into the dynamics of global supply chains, enabling organizations to identify risks and optimize processes. Lastly, collaboration and information sharing among stakeholders often face obstacles due to concerns about data privacy and competitive advantage. To address this challenge, fostering industry-wide collaborations and establishing secure data-sharing platforms, such as Sedex, can promote transparency and ethical practices throughout the entire supply chain.'
+      - Conclusion
+      - Supply chain mapping is not merely a logistical exercise; it is a strategic imperative for businesses aiming to thrive in an era where sustainability, transparency, and ethical practices are paramount. By understanding the nuances of supply chain mapping and its applications across diverse industries, organizations can pave the way for a more sustainable and resilient future. As technology continues to evolve and global challenges persist, the role of supply chain mapping in fostering responsible business practices becomes increasingly vital. Through collaboration, adherence to standards, and innovative solutions, businesses can unlock the full potential of supply chain mapping, contributing to a more sustainable and interconnected global economy.
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: "Life Cycle Assessment"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Double Materiality Analysis"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Scope 3 Emissions"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Environmental Product Declarations"
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  Supply Chain Mapping"
+   subtitle: "Read articles from CommonShare's blog about Supply Chain Mapping"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

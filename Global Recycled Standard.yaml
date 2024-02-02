@@ -1,0 +1,118 @@
+kind: "Service Providers"
+hero:
+  title: Global Recycled Standard
+  slug: global-recycled-standard
+  subtitle: CommonShare enables connections with Global Recycled Standard consultants and professionals on a global scale. This streamlines the process for businesses and organizations in search of expert guidance for sustainability and environmental impact assessments.
+
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name: Intertek
+      slug: intertek
+      location:   UK 
+      description: A leading Total Quality Assurance provider to industries worldwide. Our network of more than 1,000 laboratories and offices in more than 100 countries
+    - name: USB Certification
+      slug: usb-certification
+      location:   Turkey 
+      description: USB Certification provides audit and certification services from Izmir to Turkey, Europe, and globally through Asian branches in Bangladesh, China, India, Pakistan, and Morocco
+    - name: TÜV SÜD
+      slug: tüv-süd
+      location:   Germany 
+      description: TÜV SÜD, a trusted partner for safety, security, and sustainability solutions since 1866. With a global team of over 25,000 experts, we inspire confidence, shaping a safer and more sustainable future through testing, certification, and advisory services.
+    - name: Ecocert
+      slug: ecocert
+      location:   France 
+      description: Supporting sustainable practices for over 30 years, ECOCERT extends its expertise globally through certification, consulting, and training. Originally dedicated to organic agriculture, it now spans diverse sectors like agriculture, food, cosmetics, textiles, environment, and fair trade.
+    - name: GCL internationnal 
+      slug: gcl-internationnal
+      location:   UK 
+      description: For 25+ years, it served 50+ countries on 5 continents, offering assessment and certification for global standards
+    - name: IFC Global
+      slug: ifc-global
+      location:   Turkey 
+      description: Ekol Certification, a recognized brand in the industry, offers comprehensive services in management systems, product certification, testing, and calibration.
+    - name: Eurofins
+      slug: eurofins
+      location:   Luxembourg 
+      description: An international life sciences company, providing a unique range of analytical testing services to clients across multiple industries, to make life and the environment safer, healthier and more sustainable.
+    - name: CCPB
+      slug: ccpb
+      location:   Italy 
+      description: CCPB ensures agrifood product certification aligned with global standards like Globalgap, Integrated Pest Management, and Traceability system
+
+value_proposition: 
+  points:
+      - Discover how CommonShare facilitates connections with premier global recycled standards consulting firms around the world.
+      - Leverage our platform designed to simplify your quest for consulting experts who align with your unique needs. 
+
+#standards related 
+industry_highlights:
+  title: "Standards for Implementing Global Recycled Standard :"
+  stats:
+    - text: ISO 14021 is an international standard that provides guidelines for self-declared environmental claims, including recycled content claims. It outlines the principles and general requirements for making credible and accurate environmental claims, which aligns with the GRS's focus on transparent communication.
+    - text: The Recycled Claim Standard (RCS) from Textile Exchange is a global standard that verifies the content of recycled materials in a final product. GRS often relies on RCS to validate the recycled content claims within the supply chain, ensuring that the materials meet specific criteria related to their origin and processing.
+    - text: "European Regulation (EC) No 1907/2006 (REACH): REACH is a European Union regulation concerning the Registration, Evaluation, Authorisation, and Restriction of Chemicals. Compliance with REACH ensures that the chemicals used in the production of recycled textiles meet safety and environmental standards. GRS incorporates REACH to address the potential environmental and health impacts of chemicals in the recycling process"
+    - text: "Globally Harmonized System of Classification and Labelling of Chemicals (GHS): GHS provides a globally harmonized framework for classifying and labeling chemicals. The GHS standards are crucial in ensuring that the handling and communication of chemical-related information in the recycling process align with internationally recognized practices, promoting safety and consistency."
+  sections:
+   - ''
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About Global Recycled Standard "
+  sections:
+  - "The Global Recycled Standard (GRS) has emerged as a pivotal framework in the realm of sustainable and ethical production, playing a crucial role in fostering responsible practices within the global textile industry. This standard, initiated by the Textile Exchange, has gained widespread recognition for its ability to address environmental concerns, promote circular economies, and provide a transparent mechanism for tracking recycled content in products. In this article, we will delve into the intricacies of the Global Recycled Standard, exploring its origins, significance, applications, and the impact it has on various stakeholders."
+  - "It was first introduced by the Textile Exchange, a global non-profit organization dedicated to accelerating sustainable practices in the textile industry. Launched in 2002, the Textile Exchange recognized the need for a comprehensive and internationally accepted standard that could define the requirements for recycled content in textiles and the traceability of materials throughout the supply chain."
+  - "The initial aim of the GRS was to create a unified framework that could be applied across different industries, ensuring consistency and clarity in the use of recycled materials. Over the years, the GRS has evolved, incorporating feedback from stakeholders and adapting to the dynamic landscape of sustainability standards."
+  - "Key Principles of the Global Recycled Standard:"
+  - "At its core, the Global Recycled Standard is built on a set of principles that guide the certification process. These principles encompass key aspects such as traceability, social and environmental criteria, and the verification of recycled content. Let's explore these principles in more detail."
+  - "1. Traceability: One of the fundamental pillars of the GRS is traceability. The standard requires that companies maintain a transparent record of the flow of materials through the entire supply chain. This traceability ensures that the recycled content claimed by a product can be verified, instilling confidence in consumers and businesses alike."
+  - "2. Social and Environmental Criteria: In addition to traceability, the GRS places significant emphasis on social and environmental criteria. Manufacturers seeking certification must adhere to specific environmental practices and demonstrate compliance with social standards. This includes criteria related to water and energy use, chemical management, and fair labor practices."
+  - "3. Verification of Recycled Content: Perhaps the most pivotal aspect of the GRS is the verification of recycled content. The standard mandates a thorough and credible process for assessing the percentage of recycled material in a product. This verification is conducted through on-site inspections, documentation reviews, and other means, ensuring that claims of recycled content are accurate."
+  - "Why the Global Recycled Standard Matters:"
+  - "The adoption of the Global Recycled Standard holds profound implications for the textile industry and beyond. Several factors contribute to the significance of this standard in the context of sustainability and responsible production."
+  - "1. Environmental Impact: The textile industry is notorious for its environmental footprint, from resource-intensive cultivation of raw materials to chemical-intensive processes. By promoting the use of recycled materials, the GRS contributes to the reduction of resource extraction, energy consumption, and overall environmental impact associated with textile production."
+  - "2. Circular Economy Promotion: At the heart of the GRS is the concept of a circular economy, where products are designed to be reused, recycled, or repurposed at the end of their life cycle. By certifying products with recycled content, the GRS encourages businesses to embrace circular economy principles, fostering a more sustainable and regenerative approach to production."
+  - "3. Consumer Confidence and Awareness: As consumers become increasingly conscious of their purchasing decisions, certifications like the GRS play a crucial role in building trust. The standard provides a recognizable and credible label that consumers can look for when making choices aligned with their values, thus driving demand for sustainable and recycled products."
+  - "4. Industry Transformation: The GRS has catalyzed a transformation within the textile industry by incentivizing companies to reevaluate their supply chains and manufacturing processes. As more businesses strive for GRS certification, the industry as a whole is pushed towards adopting more sustainable practices, thereby contributing to a positive and lasting impact on the planet."
+  - "Who Does the Global Recycled Standard Apply To:"
+  - "The Global Recycled Standard is designed to be applicable across a broad spectrum of industries, with a primary focus on the textile sector. The standard is relevant to any business involved in the production of textiles, from fiber manufacturers to garment producers. This includes but is not limited to:"
+  - "Fiber Producers: Companies involved in the production of recycled fibers, whether they are synthetic or natural, are a key target for GRS certification. This includes processes such as recycling PET bottles into polyester fibers or regenerating cotton fibers from post-consumer textile waste."
+  - "Textile Manufacturers: Textile manufacturers that utilize recycled materials in their production processes are eligible for GRS certification. This applies to various stages of textile production, including spinning, weaving, and knitting."
+  - "Brands and Retailers: Brands and retailers that incorporate GRS-certified materials into their products can use the GRS label to communicate their commitment to sustainability. This helps in building trust with consumers and differentiating their products in a competitive market."
+  - "Certification Bodies: Organizations that provide certification services play a crucial role in the implementation of the GRS. These certification bodies are responsible for conducting audits, verifying compliance, and issuing GRS certificates to eligible businesses."
+  - "Challenges and Criticisms:"
+  - "While the Global Recycled Standard has made significant strides in promoting sustainability within the textile industry, it is not without its challenges and criticisms. Some of the key concerns include:"
+  - "Limited Scope: Critics argue that the GRS primarily focuses on material traceability and recycled content, potentially overlooking other critical aspects of sustainability such as water usage, carbon emissions, and overall ecological impact."
+  - "Verification Complexity: The verification process for recycled content can be complex and resource-intensive. Small and medium-sized enterprises (SMEs) may face challenges in meeting the stringent requirements of the GRS, potentially creating barriers to entry for businesses with limited resources."
+  - "Lack of Harmonization: The GRS is just one of many sustainability standards in existence. Some argue that the proliferation of various standards without sufficient harmonization could lead to confusion in the market and hinder efforts to create a unified and universally accepted framework for sustainability."
+  - "Conclusion:"
+  - "In conclusion, the Global Recycled Standard stands as a beacon of sustainability in the textile industry, offering a robust framework for companies to adopt responsible and eco-friendly practices. With its focus on traceability, social and environmental criteria, and the verification of recycled content, the GRS plays a pivotal role in promoting transparency and accountability."
+  - "The impact of the GRS extends beyond the textile industry, influencing consumer choices, driving industry transformation, and contributing to the global movement towards a circular economy. While challenges and criticisms persist, the GRS continues to evolve, incorporating feedback and adapting to the dynamic landscape of sustainability standards."
+  - "As businesses increasingly recognize the importance of environmental and social responsibility, the Global Recycled Standard serves as a valuable tool, guiding the industry toward a more sustainable and resilient future."
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: Organic Certification
+      link_text: "See list >"
+      link_url: "#"
+    - name: Fair Trade Certification
+      link_text: "See list >"
+      link_url: "#"
+    - name:  FSC Forest Certification
+      link_text: "See list >"
+      link_url: "#"
+    - name: B Corp Certification
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  Global Recycled Standard "
+   subtitle: "Read articles from CommonShare's blog about Global Recycled Standard"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

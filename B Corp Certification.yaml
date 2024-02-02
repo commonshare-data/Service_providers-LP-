@@ -1,0 +1,115 @@
+kind: "Service Providers"
+hero:
+  title: B corp Certification
+  slug: b-corp-certification
+  subtitle: CommonShare enables connections with B Corp Certification bodies, consultants, and professionals on a global scale. This streamlines the process for businesses and organizations in search of expert guidance for sustainability and environmental impact assessments.
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name: LIFT Economy
+      slug: lift-economy
+      location:   USA 
+      description: An impact consulting firm whose mission is to create, model, and share a locally self-reliant and inclusive economy that works for the benefit of all life.
+    - name: Cultivating Capital
+      slug: cultivating-capital
+      location:   USA 
+      description: A Certified B Corp since 2012, it's a woman-owned company deeply committed to growing the B Corp movement.Cultivating Capital helps companies to get certified and recertified as B Corps
+    - name: Sensiba
+      slug: sensiba
+      location:   USA 
+      description: Sensiba offers comprehensive accounting, tax, and consulting services for businesses, fostering sustainable growth.
+    - name: Grain Sustainability
+      slug: grain-sustainability
+      location:   UK 
+      description: As a certified B Corporation, Grain Sustainability empowers businesses to champion people and the planet. It provides companies with sustainability assessment, planning, and implementation tools, fostering a positive impact, increased stakeholder engagement, and a competitive advantage.
+    - name: Green Buoy Consulting
+      slug: green-buoy-consulting
+      location:   USA 
+      description: "As a partner to high-growth companies, it delivers ESG strategy, implementation, and B Corp certification services."
+    - name: Measure Meant
+      slug: measure-meant
+      location:   USA 
+      description: Measure Meant's mission is to help businesses articulate and live out their values in measurable ways, for the purpose of building social and brand capital, managing risk, and bettering our shared world.
+    - name: Everoot
+      slug: everoot
+      location:   USA 
+      description: A social enterprise consultancy that specializes in B Corp Consulting and Sustainability Reporting. it loves working with purpose-driven business owners to enable them to meet their sustainability goals!
+    - name: SBC(Sustainable Business Consulting)
+      slug: sbc-sustainable-business-consulting
+      location:   USA 
+      description: Sustainable Business Consulting transforms companies through tailored ESG solutions. Specializing in climate strategy, ESG goals, and reporting, it collaborates with over 220 clients across 40+ industries, prioritizing business value without upselling.
+
+value_proposition: 
+  points:
+      - Explore CommonShare to discover leading B corp  Certification bodies worldwide.
+      - CommonShare connects you with the ideal certification bodies, whether for initiating a sustainability project or addressing challenges in finding expertise. 
+
+#standards related 
+industry_highlights:
+  title: "Standards  / Regulations for Implementing B corp  Certification:"
+  stats:
+    - text: "ISO 9001( Quality Management System ) : This standard focuses on ensuring that a company has a robust Quality Management System in place. It involves a systematic approach to processes, customer satisfaction, leadership involvement, and continuous improvement. For a B Corp, adhering to ISO 9001 indicates a commitment to delivering quality products or services while maintaining ethical business practices."
+    - text: "ISO 14001 (Environmental Management System ):  is centered around environmental responsibility. It helps organizations establish and implement an effective environmental management system, enabling them to identify and reduce their impact on the environment. For B Corps, adherence to ISO 14001 showcases a commitment to sustainable practices and minimizing their ecological footprint."
+  sections:
+   - ''
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About B corp Certification"
+  sections:
+   - "B Corp, short for Benefit Corporation, is a type of for-profit company that has successfully met rigorous standards of social and environmental performance, accountability, and transparency. B Corp Certification is a voluntary and comprehensive process administered by B Lab, a non-profit organization. The certification is a testament to a company's commitment to balancing purpose and profit, aligning its business practices with values that prioritize not just financial gains but also the well-being of people and the planet."
+   - "The B Corp Certification process involves an in-depth assessment of a company's impact on various stakeholders, including workers, customers, suppliers, community, and the environment. Businesses seeking certification must score a minimum number of points across different impact areas to qualify."
+   - "Key Areas of Assessment : "
+   - "The B Corp assessment covers a wide range of criteria, divided into five key impact areas: Governance, Workers, Community, Environment, and Customers. Each area has specific indicators that measure a company's positive impact and commitment to responsible business practices."
+   - "1. Governance: This assesses a company's overall mission, ethics, accountability, and transparency. It looks at the governance structures that ensure the company's commitment to its stated mission."
+   - "2. Workers: The assessment under this area evaluates a company's treatment of its employees, including wages, benefits, work environment, training opportunities, and overall workplace culture."
+   - "3. Community: Companies are examined on their contributions to and engagement with the local and global communities. This includes factors such as charitable giving, volunteerism, and community development initiatives."
+   - "4. Environment: This area focuses on a company's environmental practices and impact. It assesses resource use, waste management, energy efficiency, and efforts to reduce the overall ecological footprint."
+   - "5. Customers: B Corps are evaluated on their impact on customers, considering factors such as product and service benefits, pricing fairness, and the promotion of positive social and environmental impacts."
+   - "Why B Corp Certification Matters: "
+   - "1. Reimagining Business Success: B Corp Certification challenges the traditional notion that success is solely measured by financial performance. By incorporating social and environmental considerations into the evaluation process, B Corps redefines success to encompass a broader and more sustainable definition."
+   - "2. Consumer Trust and Loyalty: In an era where consumers are increasingly conscious of the social and environmental impact of their purchases, B Corp Certification serves as a credible and recognizable symbol. It helps build trust among consumers who are more likely to support businesses that align with their values."
+   - "3. Attracting and Retaining Talent: The younger workforce, in particular, places a high value on working for companies that prioritize purpose and values. B Corp Certification can enhance a company's ability to attract and retain top talent by showcasing its commitment to ethical and sustainable business practices."
+   - "4. Competitive Advantage: B Corp Certification provides a competitive edge in markets where consumers are demanding more responsible and sustainable products and services. It sets certified businesses apart from their competitors and can be a deciding factor for consumers when choosing between similar products or services."
+   - "5. Legal Protection: While B Corp Certification doesn't replace traditional corporate structures, it does provide legal protection for companies that want to prioritize social and environmental goals. Benefit Corporations, which are distinct legal entities, are recognized in some jurisdictions, and their commitment to purpose is legally protected."
+   - "Who B Corp Certification Applies To: "
+   - "B Corp Certification is not limited to any specific industry or size of the business. Companies of all types and sizes can pursue certification, from small startups to well-established corporations. The common thread among B Corps is their commitment to using business as a force for good."
+   - "1. Startups and Small Businesses: Many startups and small businesses are drawn to B Corp Certification as a way to embed their values into their business model from the outset. Certification can help these businesses establish a strong foundation for responsible and sustainable growth."
+   - "2. Established Corporations: Larger corporations are increasingly recognizing the importance of corporate social responsibility. Pursuing B Corp Certification allows these companies to demonstrate their commitment to positive social and environmental impact, potentially reshaping their corporate image."
+   - "3. Mission-Driven Enterprises: Organizations with a clear social or environmental mission find B Corp Certification a natural fit. It provides a formal recognition of their commitment and aligns with their values-driven approach to business."
+   - "4. Global Enterprises: B Corp Certification is not limited to a specific region or country. Companies operating globally can pursue certification, reinforcing their commitment to responsible business practices across diverse markets."
+   - "Challenges and Criticisms: "
+   - "While B Corp Certification has gained widespread recognition and support, it is not without challenges and criticisms. Some of the common concerns include:"
+   - "1. Complexity of the Assessment: The B Corp assessment is detailed and can be time-consuming for businesses. Critics argue that the complexity might discourage smaller companies from pursuing certification."
+   - "2. Limited Legal Enforcement: B Corp Certification is a voluntary process, and while it comes with legal commitments, enforcement varies by jurisdiction. Some critics argue that without more robust legal requirements, companies may not fully adhere to the principles they claim to uphold."
+   - "3. Potential for Greenwashing: As sustainability becomes a marketable attribute, there is a risk of businesses engaging in greenwashing—portraying themselves as more environmentally and socially responsible than they truly are. Critics argue that B Corp Certification, while rigorous, does not eliminate this risk."
+   - "Conclusion:"
+   - "B Corp Certification represents a fundamental shift in how businesses perceive and pursue success. By integrating social and environmental considerations into their core operations, B Corps aims to redefine the role of corporations in society. The certification serves as a beacon for businesses looking to align their values with their operations and attract consumers who prioritize sustainability and responsibility."
+   - "As the business landscape evolves, B Corp Certification is likely to play an increasingly influential role in shaping corporate behavior and consumer choices. While not without its challenges, the certification offers a tangible way for companies to differentiate themselves, contribute to positive social and environmental change, and demonstrate that profitability and purpose can coexist in the business world."
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: Organic Certification
+      link_text: "See list >"
+      link_url: "#"
+    - name: Fair Trade Certification
+      link_text: "See list >"
+      link_url: "#"
+    - name:  Global Recycled Standard
+      link_text: "See list >"
+      link_url: "#"
+    - name: FSC Forest Certification
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  B corp  Certification "
+   subtitle: "Read articles from CommonShare's blog about B corp  Certification"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

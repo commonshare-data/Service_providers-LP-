@@ -1,0 +1,109 @@
+kind: "Service Providers"
+hero:
+  title: Fair Trade Certification
+  slug: fair-trade-certification
+  subtitle: CommonShare enables connections with Fair Trade Certification bodies, consultants, and professionals on a global scale. This streamlines the process for businesses and organizations in search of expert guidance for sustainability and environmental impact assessments.
+
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name:  Groupe ECOCERT 
+      slug: groupe-ecocert
+      location: France
+      description: "Supporting sustainable practices for over 30 years, ECOCERT extends its expertise globally through certification, consulting, and training. Originally dedicated to organic agriculture, it now spans diverse sectors like agriculture, food, cosmetics, textiles, environment, and fair trade."
+    - name: "Quality Systems"
+      slug:  quality-systems
+      location: 'Pakistan'
+      description: Established in 2006,Quality Systems empowers organizations globally through management system certifications, supplier development, and voluntary assessments. 
+    - name:     FLOCERT 
+      slug:  flocert
+      location: Germany
+      description:  One of the world's leading social auditing and certification bodies, providing sole certification to Fairtrade and also offering verification services for social, trade and environmental standards as well as private codes of conduct. 
+    - name:  Deccan Consulting  
+      slug:  deccan-consulting  
+      location: 'India'
+      description: "Deccan Consulting, committed to socially responsible business, applies quality management principles for client satisfaction and community well-being. It's vision is to enhance living standards through time-bound commitments and sustainable practices, crafting customized strategies for each client."
+    
+    - name:  B4Trees
+      slug:  b4trees
+      location: Denmark
+      description: A private company working with responsible management of world’s forests via sustainable forest management and certification schemes. 
+    - name: Fair World Project
+      slug: fair-world-project
+      location: USA
+      description: non-profit that advocates for fair trade policies that supports small-scale farmers, artisans and workers by promoting organic and fair trade practices and transparent third-party certification. 
+    
+    - name:   ISOXpert
+      slug:  isoxpert
+      location: 'Pakistan'
+      description:   "Committed to solving organizational challenges and promoting best practices, ISO-Xpert offers online consulting and certification services in management and IT."
+    
+    - name:  Shamkris
+      slug: shamkris
+      location: India
+      description: An Independent Assessment and Certification Body offering value added services Worldwide. Shamkris Group is amongst Best Certification Bodies of the World.
+
+value_proposition: 
+  points:
+      - Explore CommonShare to discover leading Fair Trade Certification bodies worldwide.
+      - CommonShare connects you with the ideal certification bodies, whether for initiating a sustainability project or addressing challenges in finding expertise. 
+
+#standards related 
+industry_highlights:
+  title: "Standards for Implementing Fair Trade Certification :"
+  stats:
+    - text: ISO-17065 is the international standard outlining the requirements for bodies certifying products, processes, and services. It provides guidelines for the competence, consistency, and impartiality of certification bodies.
+    - text: "Revised Capture Fisheries Standard (CFS) : This standard pertains to the certification of capture fisheries, focusing on sustainable and responsible practices in the harvesting of seafood."
+    - text: "Factory Production Standard (FPS): FPS pertains to the certification of manufacturing processes and facilities. Revisions in this standard may involve updates to ensure adherence to fair trade principles."
+    - text: "Agricultural Production Standard(APS) : APS outlines the criteria for the fair trade certification of agricultural products. It covers aspects such as environmental sustainability, fair wages, and community development."
+  sections:
+   - ''
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About Fair Trade Certification"
+  sections:
+      - Fairtrade certification has emerged as a powerful tool in the global marketplace, aiming to create a more equitable and sustainable trading system. As consumers become increasingly conscious of the social and environmental impacts of their purchases, the demand for fair trade products has grown. In this article, we will explore what fair trade certification is, why it matters, who it applies to, and the broader implications of this movement.
+      - At its core, fair trade certification is a recognition given to products that meet specific social, economic, and environmental standards. These standards are designed to ensure that producers, often in developing countries, receive fair compensation for their work, maintain safe working conditions, and engage in environmentally responsible practices. The concept of fair trade seeks to address the inherent power imbalances in traditional trading relationships and promote a more just and sustainable global economy.
+      - "The Certification Process:"
+      - "Fair Wages and Working Conditions: One of the fundamental principles of fair trade is the commitment to ensuring that workers are paid a fair wage for their labor. This means that producers are paid not only for the costs of production but also for the social and economic development of their communities. Fairtrade certification requires businesses to establish and adhere to transparent and equitable payment structures, promoting a more dignified livelihood for workers.In addition to fair wages, fair trade certification places a strong emphasis on providing safe and humane working conditions. This includes measures to prevent child labor, discrimination, and exploitation. By upholding these standards, fair trade seeks to empower workers and improve their overall well-being."
+      - "Environmental Sustainability: Beyond social considerations, fair trade certification also addresses environmental concerns associated with production processes. Producers seeking certification must adopt environmentally friendly practices, such as sustainable farming methods, reduced use of agrochemicals, and responsible water management. By integrating these principles, fair trade aims to minimize the ecological impact of production and contribute to long-term environmental sustainability."
+      - "Community Development: Fairtrade is not only about individual producers but also about the broader communities in which they operate. Certification standards often include requirements for community development initiatives, such as building schools, healthcare facilities, or infrastructure projects. These efforts are aimed at improving the overall quality of life for the people involved in the production process and fostering self-sufficiency within communities."
+      - "Who Does Fair Trade Certification Apply To?"
+      - Fairtrade certification is not limited to a specific industry or type of product. It applies to a wide range of goods, including agricultural products like coffee, tea, cocoa, and bananas, as well as non-agricultural items such as textiles, handicrafts, and even gold. The diversity of products covered by fair trade certification reflects the movement's commitment to promoting ethical and sustainable practices across various sectors.
+      - Small-scale farmers, artisans, and workers in developing countries are the primary beneficiaries of fair trade certification. These individuals often face significant challenges in the global market, such as fluctuating commodity prices, unequal bargaining power, and limited access to resources. Fairtrade provides them with a platform to overcome these challenges and participate more equitably in international trade.
+      - "Consumer Awareness and Market Impact:"
+      - The significance of fair trade certification extends beyond the production level to the choices made by consumers. As awareness of the social and environmental impacts of consumer choices grows, more people are actively seeking out fair trade products. By choosing certified products, consumers signal their support for ethical and sustainable business practices, influencing market trends and encouraging businesses to adopt responsible approaches to production.
+      - The fair trade movement has gained momentum in recent years, with an increasing number of companies recognizing the value of certification for both ethical and business reasons. Many large corporations have joined the fair trade movement, incorporating certified products into their offerings or committing to sustainable and responsible sourcing practices.
+      - "Challenges and Criticisms:"
+      - "While fair trade certification has made significant strides in promoting ethical trade practices, it is not without its challenges and criticisms. Some argue that the certification process is costly and time-consuming, particularly for small-scale producers who may lack the resources to navigate the requirements. Others point out that the criteria for certification may be too rigid, making it difficult for certain producers to participate."
+      - "Moreover, there are debates about the overall impact of fair trade on poverty alleviation. While the movement has undoubtedly improved the lives of many producers, critics argue that it is not a panacea for addressing broader systemic issues in the global economy. Additionally, there is concern that the increasing commercialization of fair trade may dilute its original principles, leading to fairwashing or the use of the label without meaningful adherence to ethical standards."
+      - "Conclusion:"
+      - "In conclusion, fair trade certification represents a crucial step toward creating a more equitable and sustainable global economy. By establishing transparent standards for social, economic, and environmental practices, fair trade certification empowers producers, protects workers, and promotes responsible business conduct. While challenges and criticisms exist, the overall impact of fair trade on raising awareness, influencing consumer behavior, and driving positive change in the marketplace cannot be overstated. As the movement continues to evolve, it is essential to address these challenges collaboratively and work towards a future where fairness, sustainability, and ethical trade practices are the norm rather than the exception."    
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: Organic Certification
+      link_text: "See list >"
+      link_url: "#"
+    - name: FSC Forest Certification
+      link_text: "See list >"
+      link_url: "#"
+    - name:  Global Recycled Standard
+      link_text: "See list >"
+      link_url: "#"
+    - name: B Corp Certification
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  Fair Trade Certification "
+   subtitle: "Read articles from CommonShare's blog about Fair Trade Certification"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

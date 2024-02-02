@@ -1,0 +1,115 @@
+kind: "Service Providers"
+hero:
+  title: ESRS (Environmental and Social Responsibility Disclosure) experts
+  slug: esrs-european-sustainability-reporting-standards-experts
+  subtitle: CommonShare streamlines connections with certified ESRS (Environmental and Social Responsibility Disclosure) experts worldwide, making the process easier for businesses and organizations seeking expert guidance on sustainability and environmental impact assessments.
+# companies
+featured_listing:
+  # 8 companies
+  items:
+    - name: AFRY
+      slug: afry
+      location:   Sweden 
+      description: a European leader in engineering, design, and advisory services, with a global reach. We accelerate the transition towards a sustainable society.
+    - name: PositionGreen
+      slug: positiongreen
+      location:   Norway 
+      description: "Position Green offers integrated sustainability solutions, leveraging technology and expertise to streamline processes and drive value creation."
+    - name: sustainserv
+      slug: sustainserv
+      location:   Germany 
+      description: a global management consulting firm that works with companies to integrate sustainability considerations into their long-term strategies, everyday operations and communications.
+    - name:  Berndt+Partner Consultants 
+      slug: -berndt+partner-consultants-
+      location:   Germany 
+      description: "B+P Consultants, a leading packaging industry consultant for over 25 years, offers comprehensive advice with deep market understanding, providing clients more knowledge, added value, efficiency, and opportunities."
+    - name: ClimatePartner
+      slug: climatepartner
+      location:   Germany 
+      description: Carbon solutions for companies worldwide, from footprint calculations to certified projects. Founded in 2006, 500+ employees support 6,000+ companies globally.
+    - name: Bix
+      slug: bix
+      location:   Germany 
+      description: "As an SAP Gold Partner and service partner of Microsoft, Salesforce & Tableau, this company advises and supports customers in national and international projects. The team identifies digital transformation potential, implementing innovative solutions and business models."
+    - name: Greenomy
+      slug: greenomy
+      location:   Belgium 
+      description: Sustainability reporting software for companies and financial institutions (EU Taxonomy, CSRD, SFDR)
+    - name: BR-AG
+      slug: br-ag
+      location:   Poland 
+      description: Focused on building trusted and efficient data ecosystems in the financial sector, Business Reporting-Advisory Group (BR-AG) for over 17 years has been a strategic partner for central banks, market supervisors, business registers, banks, insurers and other market players in their drive towards digitization and data transformation.
+
+
+value_proposition: 
+  points:
+      - Learn how CommonShare can assist you in identifying top-tier experts and software solutions for ESRS on a global scale. 
+      - CommonShare provides a diverse array of service providers, ensuring a comprehensive selection to meet your specific business requirements. 
+
+#standards related 
+industry_highlights:
+  title: "Standards  / Regulations for ESRS :"
+  stats:
+    - text: "EN ISO 14008:2021 - Monetary Valuation of Environmental Impacts:This standard provides guidelines for assessing and monetarily valuing environmental impacts. It helps ESRS experts in assigning a financial value to the environmental aspects associated with a product, service, or process. This monetary valuation is essential for organizations to understand and communicate the economic implications of their environmental performance."
+    - text: "EN ISO 14063 - Environmental Communication: EN ISO 14063 focuses on effective communication of environmental information. ESRS experts need to communicate complex environmental issues transparently and understandably to various stakeholders. Compliance with this standard ensures that communication strategies are clear and accurate, and facilitate informed decision-making."
+    - text: "EN ISO 14001:2015 - Environmental Management Systems (EMS): ISO 14001 is a widely recognized standard for establishing and maintaining an Environmental Management System. ESRS experts utilize this standard to guide organizations in implementing a systematic approach to managing environmental aspects, ensuring continuous improvement, and demonstrating a commitment to environmental responsibility."
+    - text: "EN ISO/IEC 17029:2019 - Conformity assessment - General principles and requirements for validation and verification bodies: This standard provides general principles and requirements for bodies involved in validation and verification. In the context of ESRS, validation and verification are crucial processes for assessing and confirming that an organization's environmental and social responsibility claims are accurate and reliable. Adherence to this standard ensures the credibility and competence of validation and verification bodies."
+  
+  sections:
+   - ''
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About ESRS"
+  sections:
+   - "In the contemporary landscape of business and finance, the importance of sustainability has escalated swiftly, transcending the notion of a mere buzzword to becoming a pivotal component in a company's strategy. This paradigm shift has led to the evolution of diverse frameworks and standards aimed at regulating and guiding sustainability initiatives. Among these emerging protocols is the European Sustainability Reporting Standard (ESRS), a framework designed to enhance and standardize the disclosure of sustainability information across the European Union. This article examines ESRS, its experts, and its implications within the broader context of sustainable finance and corporate accountability."
+   - "What is ESRS?"
+   - "The European Sustainability Reporting Standards are a set of guidelines designed to support organizations in reporting sustainability information in a consistent, transparent, and comparable manner. As a critical component of the EU's action plan for financing sustainable growth, ESRS underlines the fundamental aspects of environmental, social, and governance (ESG) criteria. These standards are developed to provide stakeholders – including investors, policymakers, and the general public – with reliable and pertinent data about organizations' sustainability practices."
+   - "Origin and Development of ESRS :"
+   - "The ESRS stems from the need to improve sustainability reporting and to align it with the European Green Deal's ambitions. It is anticipated to complement and gradually supersede existing frameworks such as the Global Reporting Initiative (GRI), the Sustainability Accounting Standards Board (SASB) standards, and others. The regulatory impetus for the ESRS's inception is backed by the Corporate Sustainability Reporting Directive (CSRD), which extends the requirement of sustainability reporting to all large and listed companies in the EU."
+   - "Why ESRS Matters : "
+   - "In a world grappling with climate change, resource depletion, and social inequalities, the urgency for actionable sustainability data is paramount. Investors seek transparency to evaluate risks and growth opportunities, while consumers demand ethical supply chains and corporate responsibility. ESRS matters because it establishes a uniform language for ESG matters, ensuring that sustainability reporting is not just performed but is actionable and meaningful."
+   - "The Experts Behind ESRS : "
+   - "The development of ESRS involves a consortium of sustainability and industry experts, including representatives from regulatory bodies, accounting and consulting firms, academic institutions, and non-governmental organizations. These experts contribute their comprehensive knowledge and experience to shape standards that reflect real-world complexities and industry-specific concerns, balancing technical precision with practical applicability."
+   - "Who Does ESRS Apply To?"
+   - "ESRS is a sweeping directive that applies to nearly 50,000 companies within the European Union. All large companies, whether they are publicly listed or not, along with all listed SMEs, will be mandated to comply with the ESRS, with allowances made for certain SMEs to draft simplified reports. This renders ESRS particularly significant because of its extensive reach, which not only impacts European entities but also global companies with significant operations within the EU market."
+   - "The Relation to CSRD : "
+   - "The Corporate Sustainability Reporting Directive functions as the legislative bedrock for the ESRS. The CSRD not only requires more companies to produce sustainability reports but also stipulates that these reports adhere to the ESRS framework. This raises the stringency and scrutiny associated with sustainability reporting, transitioning it from a voluntary exercise to a regulatory norm."
+   - "The Framework of ESRS : "
+   - "The essence of the ESRS framework revolves around key topics such as climate change mitigation, pollution, water and marine resources, biodiversity, supply chain due diligence, and worker rights among others. Each standard within the framework is generally structured to address a different sustainability aspect, requiring disclosures on policy, risk, and performance metrics."
+   - "Benefits of Implementing ESRS : "
+   - "Implementing the ESRS can unlock several benefits for enterprises. Not only does it strengthen stakeholder trust and offer a competitive edge, but it also provides a roadmap for integrating sustainability into core business operations. Additionally, thorough sustainability reporting in line with ESRS can enable better access to capital, as more investors move towards ESG-compliant portfolios."
+   - "Challenges and Considerations :"
+   - "The road to standardized sustainability reporting is fraught with challenges. Adoption of ESRS necessitates substantial effort in terms of aligning existing reporting processes, data collection, and capacity building. Furthermore, ESRS implementation may bring about issues of data privacy and complexity, especially for multinational companies navigating disparate regulatory environments."
+   - "Preparing for ESRS Implementation : "
+   - "Companies must take decisive steps to prepare for ESRS implementation. This could entail training teams on ESG-related aspects, upgrading data management systems, and engaging with stakeholders throughout and beyond the value chain. Seeking expert advice from sustainability consultants can also be instrumental in smoothing the transition."
+   - "The Implications for Corporate Strategy :"
+   - "With ESRS, sustainability reporting transforms from a discretionary activity into a strategic imperative. Corporate leaders will be called upon to incorporate ESG considerations into their decision-making processes holistically. By doing so, organizations can harness the power of ESRS to not just comply with regulations but to foster innovation, resilience, and sustainable growth."
+   - "The Global Context and Future Outlook :"
+   - "The ESRS is not just a European phenomenon—it casts a long shadow on global sustainability practices. As businesses around the world interlock, the influence of ESRS is expected to ripple across continents, potentially harmonizing sustainability reporting at a global scale. The evolution of sustainability reporting standards like ESRS is indicative of an emergent era wherein sustainability becomes entrenched in the DNA of business operations globally."
+   - "Conclusion :"
+   - "The establishment of the European Sustainability Reporting Standards marks a watershed moment in the pursuit of a more sustainable and transparent corporate world. As ESRS becomes a fulcrum for measuring, understanding, and communicating sustainability performance, its impact on corporate strategies and the investor landscape cannot be overstated. As organizations gear up to adopt this transformative framework, the pathway towards a sustainable future becomes increasingly concrete and measurable, empowering stakeholders to make informed decisions in building a resilient and ethical business ethos."
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: ESG Experts     
+      link_text: "See list >"
+      link_url: "#"
+    - name: LCA Experts
+      link_text: "See list >"
+      link_url: "#"
+    - name:  CSRD Experts
+      link_text: "See list >"
+      link_url: "#"
+    - name: SFDR Experts
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  ESRS "
+   subtitle: "Read articles from CommonShare's blog about ESRS"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

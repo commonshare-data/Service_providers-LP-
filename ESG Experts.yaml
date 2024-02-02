@@ -1,0 +1,123 @@
+kind: "Service Providers"
+hero:
+  title: ESG experts
+  slug: esg-experts
+  subtitle: CommonShare facilitates connections with ESG (Environmental, Social, and Governance) experts on a global scale. This simplifies the process for businesses and organizations seeking expert guidance for sustainability and environmental impact assessments.
+# companies
+featured_listing:
+  # 8 companies
+  items:
+    - name: Consultivo
+      slug: consultivo
+      location:   India 
+      description: an independent ESG, sustainability, business excellence and risk management consulting firm with 100+ solutions across the value chain. Transparent & ethical value system is the key to earn trust, credibility & respect from all its stakeholders.
+    - name: RPS Group
+      slug: rps-group
+      location:   UK 
+      description: a leading global provider of consulting and engineering services. Operating in 125 countries, working across six continents, our 5,000 consultants and service providers define, design and manage projects that create shared value to a complex urbanising and resource scarce world.
+    - name: SLR Consulting
+      slug: slr-consulting
+      location:   UK 
+      description: Global Leaders in Sustainability Solutions
+    - name: Milani
+      slug: milani
+      location:   Canada 
+      description: Millani assists investors and businesses in integrating ESG factors to mitigate risks and create value.
+    - name: HM Strategy
+      slug: hm-strategy
+      location:   Singapore 
+      description: "HM is a boutique management consulting firm. It focuses  on three core capabilities: Strategy, Compliance & Regulatory Advisory, and In-house Counsel services."
+    - name: Delphi
+      slug: delphi
+      location:   Canada 
+      description: Delphi, within the Profoundry collective, specializes in climate change, sustainability, and ESG consulting. As part of Canada's largest platform for sustainable performance, our innovative experts provide customized advice and actionable roadmaps for transformative and prosperous outcomes.
+    - name: Good Management Group
+      slug: good-management-group
+      location:   UK 
+      description: Helping your business make sense of Net Zero, ESG, CSR & Sustainability Getting to Net Zero is a journey. Every business is at different stages. Some are nearly there, while others have yet to start. That’s OK. Wherever you are on your journey, Good Management Group is here to help you achieve your goals.
+    - name: Morrow Sodali
+      slug: morrow-sodali
+      location:   USA 
+      description: Morrow Sodali is a global corporate consultancy that provides clients with comprehensive advice and services relating to corporate governance, compensation, ESG, sustainability, proxy solicitation, capital markets intelligence, shareholder and bondholder engagement, M&A, activism and contested situations, financial communications, investor relations and research.
+
+value_proposition: 
+  points:
+      - Discover how CommonShare can assist you in connecting with premier ESG (Environmental, Social, and Governance) experts globally .
+      - CommonShare links you with the perfect solution. Join us today to interact with the most suitable ESG experts who can guide you on your journey towards sustainable practices.
+
+#standards related 
+industry_highlights:
+  title: "Standards  / Regulations for ESG:"
+  stats:
+  - text: "ISO 14007 - Environmental Management - Determining Environmental Costs and Benefits: This standard outlines principles and a framework for assessing and quantifying the costs and benefits associated with environmental aspects. It helps organizations make informed decisions by considering environmental impacts in their decision-making processes. Understanding the environmental costs and benefits is vital for effective ESG management."
+  - text: "ISO 14008 - Monetary Valuation of Environmental Impacts and Related Environmental Aspects: ISO 14008 provides guidelines for the monetary valuation of environmental impacts. It assists organizations in assigning a monetary value to the environmental consequences of their activities, products, or services. This standard is essential for ESG experts as it contributes to the comprehensive assessment of the economic implications of environmental aspects."
+  - text: "ISO 14030 - Environmental Management - Guidelines for Performance Evaluation Including Benchmarking: ISO 14030 focuses on guiding organizations to evaluate their environmental performance. It includes methodologies for performance indicators, performance benchmarks, and performance improvement targets. ESG experts can use this standard to assess and compare an organization's performance against established benchmarks, aiding in the identification of areas for improvement."
+  - text: "ISO 14097 - Greenhouse gases - Carbon footprint of projects: This standard addresses the quantification and reporting of the carbon footprint of projects. It provides a framework for assessing the greenhouse gas emissions associated with a specific project, helping organizations understand and manage their contribution to climate change. ESG experts can utilize this standard to evaluate and disclose the environmental impact of projects within the broader ESG context."
+  - text: "ISO 14007 - Environmental Management - Determining Environmental Costs and Benefits: This standard outlines principles and a framework for assessing and quantifying the costs and benefits associated with environmental aspects. It helps organizations make informed decisions by considering environmental impacts in their decision-making processes. Understanding the environmental costs and benefits is vital for effective ESG management."
+  - text: "ISO 14008 - Monetary Valuation of Environmental Impacts and Related Environmental Aspects: ISO 14008 provides guidelines for the monetary valuation of environmental impacts. It assists organizations in assigning a monetary value to the environmental consequences of their activities, products, or services. This standard is essential for ESG experts as it contributes to the comprehensive assessment of the economic implications of environmental aspects."
+  - text: "ISO 14030 - Environmental Management - Guidelines for Performance Evaluation Including Benchmarking: ISO 14030 focuses on guiding organizations to evaluate their environmental performance. It includes methodologies for performance indicators, performance benchmarks, and performance improvement targets. ESG experts can use this standard to assess and compare an organization's performance against established benchmarks, aiding in the identification of areas for improvement."
+  - text: "ISO 14097 - Greenhouse gases - Carbon footprint of projects: This standard addresses the quantification and reporting of the carbon footprint of projects. It provides a framework for assessing the greenhouse gas emissions associated with a specific project, helping organizations understand and manage their contribution to climate change. ESG experts can utilize this standard to evaluate and disclose the environmental impact of projects within the broader ESG context."
+
+  sections:
+   - ''
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About ESG"
+  sections:
+  - "In recent years, the business landscape has witnessed a significant shift towards a more conscientious and sustainable approach. Companies are increasingly recognizing the importance of not only financial success but also the impact they have on the environment, society, and governance structures. This paradigm shift has given rise to the concept of Environmental, Social, and Governance (ESG) criteria, which has gained prominence as a holistic framework for assessing a company's overall impact and sustainability. In this article, we delve into the intricacies of ESG, exploring its components, the experts driving its adoption, why it matters, and its broad applicability."
+  - "Environmental Factors : The 'E' in ESG stands for Environmental, and it encompasses a range of factors related to a company's impact on the planet. This includes its carbon footprint, energy efficiency, waste management, and overall environmental stewardship. Companies are increasingly expected to adopt practices that minimize their negative impact on the environment, such as reducing greenhouse gas emissions, embracing renewable energy sources, and implementing sustainable supply chain practices."
+  - "Social Factors :The 'S' in ESG refers to Social factors, focusing on a company's relationships with its employees, customers, suppliers, and the communities in which it operates. Socially responsible practices include ensuring fair labor practices, promoting diversity and inclusion, safeguarding human rights, and contributing positively to community development. Companies that prioritize social responsibility aim to create a positive impact on society and foster a supportive and inclusive workplace culture."
+  - "Governance Factors :Governance, represented by the 'G,' revolves around the internal structures and mechanisms that guide a company's decision-making processes. This includes aspects such as board composition, executive compensation, shareholder rights, and adherence to ethical business practices. Strong governance ensures transparency, accountability, and responsible management, contributing to the long-term stability and success of a company."
+  - "ESG Experts: Driving Sustainable Practices "
+  - "As the importance of ESG considerations continues to grow, a cadre of experts has emerged to guide companies in adopting and implementing sustainable practices. These experts, often with backgrounds in finance, sustainability, and corporate governance, play a crucial role in reshaping corporate strategies. Some notable ESG experts include:"
+  - "1. Sustainalytics :Sustainalytics is a global leader in ESG research and ratings, providing insights to investors and companies. They assess companies based on a wide range of ESG factors, helping investors make informed decisions aligned with their sustainability goals. Sustainalytics' research empowers companies to identify areas for improvement and showcase their commitment to responsible business practices."
+  - "2. Institutional Shareholder Services (ISS) : ISS is a prominent provider of corporate governance and responsible investment solutions. They assist companies in enhancing their governance structures, aligning executive compensation with performance, and addressing ESG risks. ISS also offers guidance to investors on proxy voting and engagement strategies to influence positive change in corporate behavior."
+  - "3. Principles for Responsible Investment (PRI) : PRI is a global initiative that encourages investors to integrate ESG factors into their decision-making processes. With signatories representing a diverse group of asset owners, investment managers, and service providers, PRI plays a pivotal role in promoting sustainable investment practices worldwide. Their framework guides investors in incorporating ESG considerations to mitigate risks and contribute to long-term value creation."
+  - "4. Carbon Disclosure Project (CDP) :The CDP is a nonprofit organization that operates a global disclosure system for investors, companies, cities, and regions to manage their environmental impacts. By collecting and analyzing data related to climate change, water security, and deforestation, CDP provides valuable insights that enable companies to measure, disclose, and improve their environmental performance."
+  - "The Significance of ESG :  "
+  - "1. Long-Term Value Creation : One of the primary reasons why ESG matters is its association with long-term value creation. Companies that prioritize sustainability and responsible business practices are better positioned to navigate evolving market dynamics. Investors increasingly recognize that sustainable practices contribute to a company's resilience, mitigating risks associated with environmental and social issues and enhancing overall financial performance."
+  - "2. Risk Mitigation : ESG criteria serve as a risk management tool, helping companies identify and address potential risks associated with environmental, social, and governance factors. By proactively managing these risks, companies can avoid legal issues, reputational damage, and financial losses. For example, a company with robust governance structures is less likely to face legal challenges, while those with environmentally sustainable practices may be better prepared for regulatory changes."
+  - "3. Stakeholder Trust and Reputation : ESG considerations play a pivotal role in building and maintaining trust with various stakeholders, including investors, customers, employees, and the wider community. Companies that demonstrate a commitment to ethical practices, environmental stewardship, and social responsibility are more likely to attract and retain customers, employees, and investors. A positive reputation for ESG excellence can become a competitive advantage in the marketplace."
+  - "4. Regulatory Compliance : As governments and regulatory bodies worldwide prioritize sustainable business practices, companies face an increasing number of ESG-related regulations. Adhering to these regulations is not only a legal requirement but also a strategic imperative. Companies that proactively incorporate ESG criteria into their operations are better positioned to comply with existing and future regulations, avoiding legal penalties and reputational damage."
+  - "ESG and Different Sectors :"
+  - "1. Financial Services : The financial services sector has been at the forefront of ESG integration, recognizing the materiality of environmental and social factors on investment performance. Asset managers, banks, and insurance companies are increasingly incorporating ESG considerations into their investment strategies and risk assessments. This shift is driven by a growing awareness among financial institutions that ESG factors can materially impact the long-term value of their portfolios."
+  - "2. Technology : Technology companies are under increasing scrutiny for their environmental impact, ethical use of data, and commitment to diversity and inclusion. ESG considerations are becoming integral to the evaluation of technology companies by investors and customers alike. Companies that demonstrate a commitment to sustainable practices, ethical use of technology, and responsible data management are more likely to garner positive attention and support."
+  - "3. Energy and Natural Resources :  The energy and natural resources sector faces unique ESG challenges, given its significant environmental footprint. Companies in this sector are under pressure to transition to cleaner energy sources, reduce emissions, and adopt sustainable resource management practices. Investors are increasingly divesting from companies that do not align with ESG principles, making it imperative for energy and natural resources companies to embrace sustainable practices for long-term viability."
+  - "4. Healthcare : In the healthcare sector, ESG considerations extend beyond financial performance to encompass ethical practices, access to healthcare, and the impact on communities. Pharmaceutical companies are expected to address issues such as affordable drug pricing, responsible marketing practices, and efforts to improve global health outcomes. ESG criteria are becoming integral to evaluating the overall societal impact of healthcare companies."
+  - "ESG Reporting and Measurement : As ESG considerations become more ingrained in corporate strategies, the need for standardized reporting and measurement frameworks has grown. Various organizations and initiatives have emerged to provide guidelines and frameworks for ESG reporting. Some of the widely recognized ones include:"
+  - "1. Global Reporting Initiative (GRI) : The GRI is an independent international organization that provides a comprehensive sustainability reporting framework. Companies use GRI standards to disclose their economic, environmental, and social impacts, facilitating transparency and comparability across different organizations and industries."
+  - "2. Task Force on Climate-related Financial Disclosures (TCFD) : TCFD was established to develop recommendations for voluntary climate-related financial disclosures. Focused on providing decision-useful information to investors, lenders, and insurance underwriters, TCFD's framework assists companies in assessing and disclosing their climate-related risks and opportunities."
+  - "3. Sustainability Accounting Standards Board (SASB) : SASB provides industry-specific standards for ESG disclosure, helping companies communicate financial material sustainability information to investors. By tailoring standards to different industries, SASB aims to enhance the comparability and reliability of ESG information for investors."
+  - "ESG Challenges and Criticisms : "
+  - "While the adoption of ESG principles has accelerated, it is not without challenges and criticisms. Some of the key concerns include:"
+  - "1. Lack of Standardization : The absence of a universally accepted set of ESG standards has led to a lack of consistency and comparability in reporting. Companies may use different metrics and criteria, making it challenging for investors to assess and compare their ESG performance. Efforts to establish global standards are ongoing, but achieving consensus among diverse stakeholders remains a complex task."
+  - "2. Greenwashing : Greenwashing refers to the practice of companies exaggerating or misrepresenting their commitment to sustainability. Some companies may engage in greenwashing to improve their public image without implementing substantial changes in their business practices. This undermines the credibility of ESG efforts and makes it challenging for stakeholders to differentiate between genuine commitment and mere marketing tactics."
+  - "3. Short-Term Focus : Critics argue that the financial markets' short-term focus may hinder the integration of long-term ESG considerations. Investors, driven by quarterly financial results, may prioritize immediate financial gains over long-term sustainability. Shifting the investment landscape towards a more sustainable and responsible approach requires a paradigm shift in the evaluation of financial performance."
+  - "Conclusion :"
+  - "ESG considerations have emerged as a transformative force in the corporate world, influencing investment decisions, shaping corporate strategies, and redefining the expectations of various stakeholders. As companies navigate the complexities of environmental, social, and governance factors, ESG experts play a crucial role in guiding them toward sustainable practices. The significance of ESG lies not only in its potential to create long-term value but also in its capacity to drive positive change for the planet, society, and governance structures. As the ESG landscape continues to evolve, addressing challenges and embracing opportunities for standardization will be essential to realizing the full potential of this paradigm shift. Companies that prioritize ESG principles are not only better positioned for resilience in a rapidly changing world but also contribute to a more sustainable and equitable future."                            
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: LCA Experts     
+      link_text: "See list >"
+      link_url: "#"
+    - name: CSRD Experts
+      link_text: "See list >"
+      link_url: "#"
+    - name:  ESRS Experts
+      link_text: "See list >"
+      link_url: "#"
+    - name: SFDR Experts
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  ESG "
+   subtitle: "Read articles from CommonShare's blog about ESG"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

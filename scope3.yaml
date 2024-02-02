@@ -1,0 +1,115 @@
+kind: "Service Providers"
+hero:
+  title: Scope 3 Emissions
+  slug: scope-3-emissions
+  subtitle: CommonShare facilitates connections with certified software solutions, consultants, and professionals specializing in Scope 3 emissions worldwide. This simplifies the process for businesses and organizations seeking expert guidance on sustainability and environmental impact assessments.
+
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name: " GZA GeoEnvironmental, Inc."
+      slug:  gza-geoenvironmental-inc. 
+      location: USA
+      description: "Committed to excellence, GZA GeoEnvironmental, Inc fosters a culture of superior results, offering a free flow of knowledge and support under the principle of One Company."
+    - name: "Schneider Electric"
+      slug: schneider-electric
+      location: 'France'
+      description: "Leading the Digital Transformation of Energy Management and Automation."
+    - name: "Practice GreenHeath"
+      slug: 'practice-greenheath'
+      location: 'USA'
+      description:  A leader in healthcare sustainability, Practice Greenhealth delivers environmental solutions to over 1,500 hospitals and health systems in the United States and Canada.
+    - name: 'Persefoni'
+      slug: 'persefoni'
+      location: 'USA'
+      description: A leader in global environmental impact
+    - name: "Carbon Trust"
+      slug: 'carbon-trust'
+      location: 'UK'
+      description:  "Mission-driven for over 20 years, Carbon Trust accelerates the transition to a decarbonized future. "
+    - name: 'Climatiq'
+      slug: climatiq
+      location: Germany
+      description: "Climatiq offers embedded carbon intelligence software, automating GHG emission calculations with verified scientific models. Its suite includes an open dataset of emission factors and intelligent APIs for real-time monitoring."
+   
+    - name: Sustainserv
+      slug: sustainserv
+      location: Germany
+      description: "A global consulting firm integrates sustainability into companies' strategies, operations, and communications. They envision a world where sustainability is the norm, influencing every aspect of corporate strategy, management, and communication."
+    
+    - name: 'Co2nsensus'
+      slug: co2nsensus
+      location: 'UK'
+      description: "Co2nsensus: International climate-tech innovator. Empowering sustainability with cutting-edge solutions and a mission against the climate crisis."
+
+value_proposition:
+  points:
+    -    Explore CommonShare for leading Scope 3 emissions specialists worldwide.
+    -     Find experts aligned with your specific needs and requirements.
+    -   CommonShare links you with the ideal solution for sustainability projects.
+
+#standards related 
+industry_highlights:
+  title: "Standards for Implementing Scope 3 Emissions Calculations"
+  stats:
+    - text: "The Corporate Value Chain (Scope 3) Standard / GHG Protocol Scope 3 Standard: The Corporate Value Chain (Scope 3) Standard, often referred to as the GHG Protocol Scope 3 Standard, is developed by the Greenhouse Gas Protocol, a collaboration between the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD). This standard is a widely accepted and recognized framework for measuring and reporting greenhouse gas emissions, particularly those categorized as Scope 3 emissions."
+    - text: "ISSB (The International Sustainability Standards Board): The International Sustainability Standards Board (ISSB) is a global initiative working towards developing a comprehensive set of sustainability reporting standards. The ISSB aims to address various aspects of sustainability reporting, including environmental, social, and governance (ESG) factors."
+    
+  sections:
+    - Discover how CommonShare can assist you in locating top-tier software solutions in Scope 3 emissions worldwide.
+    - Whether you're initiating a Scope 3 emissions analysis project or facing challenges in locating an expert with the necessary proficiency, CommonShare links you to the ideal solution.
+
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About Double Materiality Analysis"
+  sections:
+    - Climate change has become a pressing global concern, prompting businesses and organizations to reevaluate their environmental impact. In the quest for sustainability, a comprehensive approach is essential, which includes addressing not only direct emissions but also indirect emissions. Scope 3 emissions, a term gaining prominence in environmental discussions, represents the full extent of an entity's carbon footprint. This article explores what Scope 3 emissions are, why they matter, who they apply to, and the significance of addressing them in the pursuit of a sustainable future.
+    - Defining Scope 3 Emissions
+    - Scope 3 emissions, also known as indirect emissions, go beyond a company's direct operational activities. Unlike Scope 1 emissions (direct emissions from owned or controlled sources) and Scope 2 emissions (indirect emissions from purchased electricity, heat, or steam), Scope 3 emissions encompass a broader range of activities throughout the entire value chain. This includes emissions associated with a company's supply chain, product life cycle, and business-related activities that are not directly owned or controlled by the reporting entity.
+    - In essence, Scope 3 emissions capture the full spectrum of environmental impacts caused by a company's activities, even if those activities occur outside the organizational boundaries. These emissions are considered indirect because they result from the actions of suppliers, customers, and other stakeholders associated with the company's operations.
+    - Why Scope 3 Emissions Matter
+    - The significance of Scope 3 emissions lies in their potential to reveal the hidden environmental impacts of a business. By accounting for these indirect emissions, companies gain a more holistic understanding of their carbon footprint and can develop more effective strategies to mitigate their overall impact on the environment.
+    - "- Comprehensive Measurement: Scope 3 emissions provide a comprehensive measure of a company's environmental impact, offering insights into the entirety of its value chain. This allows for a more accurate assessment of the organization's contribution to climate change and facilitates informed decision-making."
+    - "- Supply Chain Accountability: As businesses become increasingly interconnected, the environmental impact of supply chains has come under scrutiny. Scope 3 emissions enable companies to assess the emissions associated with their entire supply chain, fostering transparency and accountability throughout the production process."
+    - "- Risk Management: Addressing Scope 3 emissions is crucial for effective risk management. Companies that ignore these indirect emissions may face unforeseen risks related to resource scarcity, regulatory changes, or shifts in consumer preferences. By identifying and mitigating Scope 3 emissions, organizations can proactively manage these risks."
+    - "-  Stakeholder Expectations: Stakeholders, including customers, investors, and regulatory bodies, are placing greater emphasis on sustainability. Understanding and addressing Scope 3 emissions is a demonstration of a company's commitment to environmental responsibility, aligning with evolving stakeholder expectations."
+    - "Who Scope 3 Emissions Apply To :"
+    - "Scope 3 emissions are relevant to a wide range of organizations across various industries. While not all companies may have the same level of Scope 3 emissions, understanding and addressing these indirect impacts is essential for a holistic sustainability strategy. The applicability of Scope 3 emissions extends to"
+    - "- Manufacturing Industries: Companies involved in manufacturing often have extensive supply chains, making Scope 3 emissions a critical consideration. From raw material extraction to transportation and distribution, the entire life cycle of a product contributes to Scope 3 emissions"
+    - "- Retail and Consumer Goods: Businesses in the retail and consumer goods sector typically have complex supply chains with multiple stakeholders. Scope 3 emissions in this industry may include those associated with transportation, packaging, and disposal of products."
+    - "- Service Industries: Even service-based industries, where the production process may not involve physical goods, can have significant Scope 3 emissions. These may arise from business travel, employee commuting, and the energy consumption of third-party services."
+    - "- Technology and IT: The technology sector, including IT companies, faces Scope 3 emissions challenges related to the production and disposal of electronic devices, as well as the energy consumption associated with data centers."
+    - " Financial Institutions: Financial institutions, despite their intangible nature, can generate Scope 3 emissions through investments in industries with high carbon footprints. Understanding these indirect impacts is crucial for sustainable investment strategies."
+    - "Significance of Addressing Scope 3 Emissions:"
+    - "Addressing Scope 3 emissions holds significant importance for organizations aiming for holistic sustainability. While mitigating direct emissions is crucial, tackling Scope 3 emissions provides a more comprehensive and accurate portrayal of a company's environmental impact. Moreover, managing Scope 3 emissions contributes to the resilience of a company's supply chain, vital in a world prone to disruptions caused by climate change. Proactively addressing Scope 3 emissions also ensures regulatory compliance, aligning with global efforts to reduce greenhouse gas emissions. Companies taking these measures position themselves advantageously, not only in meeting current regulations but also in anticipating and adapting to future environmental standards. Additionally, embracing sustainability, inclusive of Scope 3 management, can serve as a powerful competitive advantage, as consumers and investors increasingly favor environmentally responsible businesses, making sustainability a key differentiator in the marketplace."
+    - "Conclusion :"
+    - "In conclusion, Scope 3 emissions represent a crucial aspect of a company's overall environmental impact. Understanding and addressing these indirect emissions is essential for businesses striving to be sustainable and socially responsible. By comprehensively measuring and managing their carbon footprint, organizations can not only reduce their environmental impact but also position themselves as leaders in a world increasingly focused on the urgent need for climate action. As businesses continue to evolve, integrating Scope 3 emissions into sustainability strategies is not just a responsibility but a strategic imperative for a resilient and sustainable future."
+
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: "Life Cycle Assessment"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Double Materiality Analysis"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Supply Chain Mapping"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Environmental Product Declarations"
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about Scope 3 Emissions"
+   subtitle: "Read articles from CommonShare's blog about Scope 3 Emissions"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

@@ -1,0 +1,111 @@
+kind: "Service Providers"
+hero:
+  title: Double Materiality Analysis
+  slug: double-materiality-analysis
+  subtitle: CommonShare connects you with certified experts specializing in Double Materiality Analysis, streamlining the process for businesses and organizations seeking professional guidance on evaluating both financial and non-financial impacts. We facilitate a comprehensive understanding of economic, social, and environmental responsibilities, empowering entities to navigate the complexities of double materiality assessments with ease. 
+
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name: "Greenly"
+      slug: greenly
+      location: 'USA'
+      description: "A staunch supporter in the fight against global warming."
+    - name: "Benchmark Gensuite"
+      slug: benchmark-gensuite 
+      location: 'USA'
+      description: "At Benchmark Gensuite, unwavering commitment fuels success. Inspired teamwork, empowerment, and shared dedication lead to outstanding outcomes. Your triumph is our shared goal."
+    - name: "Good.Lab"
+      slug: 'good.lab'
+      location: 'USA'
+      description:  "Passionate about a sustainable economy, Good.Lab accelerates mid-market companies on ESG."
+    - name: 'Datamaran'
+      slug: 'datamaran'
+      location: 'UK'
+      description: "From London origins to global boardrooms, Datamaran pioneers ESG solutions with a people-focused approach."
+    - name: "Brightest"
+      slug: 'brightest'
+      location: 'USA'
+      description:  "Brightest began with a focus on values and the aspiration to help individuals, organizations, and communities achieve their full potential. Embracing imperfection, they advocate for consistent progress in sustainability, climate action, and positive social change."
+    - name: 'VelocityEHS'
+      slug: velocityehs
+      location: USA
+      description: "VelocityEHS transforms workplaces sustainably, with 50 years of leadership in simplifying EHS & ESG challenges through expert problem-solving. Their solutions predict and address complexities without overwhelming."
+    - name: Fisa
+      slug: fisa
+      location: Germany
+      description: "On a mission to simplify employees' daily sustainability and financial reporting, their holistic approach with FISA, sustainability drive with Envoria, and financial compliance acceleration with Contavio demonstrate a commitment to efficient, regulatory-aligned solutions that benefit both businesses and the planet."
+    - name: 'AuditBoard'
+      slug: auditboard
+      location: 'USA'
+      description: "AuditBoard transforms risk management, freeing teams from manual tasks to elevate strategic influence. Founded by experts, their top-rated solutions close resiliency gaps, leading a movement in the audit, risk, and compliance profession."
+
+value_proposition:
+  points:
+    - Explore CommonShare to streamline your search for Double Materiality Analysis (DMA) experts globally.
+    - "Find DMA specialists aligning with your unique requirements."
+    - "Streamline the process of connecting with verified DMA professionnals"
+
+#standards related 
+industry_highlights:
+  title: "Standards and Regulations Related to Double Materiality Analysis"
+  stats:
+    - text: "GRI 101: Foundation (2022): This foundational standard lays out the principles and framework for conducting sustainability reporting, including materiality assessments. It guides organizations in defining report content by identifying aspects that reflect significant economic, environmental, and social impacts, aligning with the principles of Double Materiality Analysis."
+    - text: "GRI 103: Management Approach (2022): This standard directs organizations on disclosing their management approach to material topics identified in GRI 101. It emphasizes the importance of explaining how the organization manages its significant impacts, offering a practical application of the double materiality concept."
+    - text: "The ESRS focuses on electronic reporting of financial information, emphasizing the importance of providing relevant and material information in financial reports. While it may not explicitly address Double Materiality Analysis, it underscores the need for companies to consider the financial implications of environmental, social, and governance (ESG) factors in alignment with integrated reporting trends."
+    
+  sections:
+    - ''
+    - ''
+
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About Double Materiality Analysis"
+  sections:
+    - In the ever-evolving landscape of corporate responsibility, sustainability has become a cornerstone for businesses aiming to thrive in the long term. Double Materiality Analysis (DMA) is a concept that has gained prominence in this context, offering a nuanced perspective on the impact of environmental, social, and governance (ESG) factors on businesses, and reciprocally, the impact of business activities on broader societal and environmental concerns.
+    - 'Defining Double Materiality Analysis:'
+    - Double Materiality Analysis refers to the dual assessment of materiality in corporate reporting. Traditional materiality assessments have predominantly focused on understanding the impact of external environmental, social, and governance factors on a company's financial performance. However, the double materiality framework extends this perspective by also scrutinizing how a company's activities, products, or services influence the external environment and society.
+    - "The Dual Dimension:"
+    - "External Materiality: External materiality, the first dimension of DMA, aligns with the conventional understanding of materiality. It involves evaluating the external factors that have a material impact on a company's financial performance. These factors include regulatory changes, market trends, and societal expectations, all of which can significantly affect a company's bottom line."
+    - "Internal Materiality: The second dimension, internal materiality, turns the lens inward, examining how a company's operations, products, or services impact the environment and society. This involves a deep dive into the company's supply chain, production processes, and overall business model to identify potential risks and opportunities related to ESG issues."
+    - "Why Double Materiality Matters:"
+    - "Holistic Risk Management: By adopting a double materiality approach, companies gain a more comprehensive understanding of the risks and opportunities associated with ESG factors. This holistic perspective enables better risk management and strategic decision-making."
+    -  "Stakeholder Engagement: Traditional materiality assessments often focus on stakeholders' impact on the company. However, DMA recognizes the reciprocal relationship, acknowledging that a company's operations also impact its external stakeholders. This two-way perspective fosters more meaningful and transparent stakeholder engagement, leading to stronger relationships with investors, customers, employees, and the broader community."
+    -  "Regulatory Compliance: As global awareness of environmental and social issues grows, regulatory frameworks are evolving to incorporate sustainability considerations. Adopting a double materiality approach positions companies to stay ahead of regulatory changes and ensures compliance with emerging ESG disclosure requirements. This proactive stance not only mitigates legal risks but also enhances a company's reputation as a responsible corporate citizen."
+    - "Long-Term Value Creation: Companies integrating double materiality into their strategic planning recognize the long-term value creation potential. Understanding and addressing both external and internal materiality factors contribute to sustainable business practices that go beyond short-term financial gains. This approach resonates with investors and stakeholders who prioritize businesses committed to creating enduring value while minimizing adverse impacts."
+    - "Who Double Materiality Analysis Applies To:"
+    - "Corporations of All Sizes: While larger corporations with extensive operations and global supply chains may face more complex challenges, the principles of double materiality are applicable to businesses of all sizes. Small and medium-sized enterprises (SMEs) can also benefit from understanding how their activities influence external ESG factors and identifying opportunities to enhance sustainability."
+    - "Investors: Investors are increasingly recognizing the importance of ESG considerations in their decision-making processes. For asset managers, institutional investors, and individual investors alike, adopting double materiality analysis provides a more comprehensive understanding of the risks and opportunities associated with their investment portfolios. This approach aligns with the growing trend of responsible investing."
+    - "Regulatory Bodies: Regulatory bodies play a crucial role in shaping the business landscape. As environmental and social concerns gain prominence, regulatory bodies are incorporating ESG factors into reporting requirements. Double materiality analysis is particularly relevant for regulatory bodies seeking to establish frameworks that promote transparency, accountability, and sustainable practices across industries."
+    - "Conclusion :"
+    - "To conclude, Double Materiality Analysis is emerging as a pivotal concept in the realm of sustainable business practices. By considering both external and internal materiality factors, companies can navigate the complexities of the modern business environment, fostering resilience, responsible governance, and long-term value creation. As the global community continues to prioritize sustainability, adopting a double materiality approach is not just a strategic choice but a fundamental step towards building a more sustainable and equitable future."
+
+
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: "Life Cycle Assessment"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Scope 3 Emissions"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Supply Chain Mapping"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Environmental Product Declarations"
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about Double Materiality Analysis"
+   subtitle: "Read articles from CommonShare’s blog about Double Materiality Analysis"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

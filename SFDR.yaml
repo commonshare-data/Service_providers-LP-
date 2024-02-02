@@ -1,0 +1,106 @@
+kind: "Service Providers"
+hero:
+  title: SFDR (Sustainable Finance Disclosure Regulation) experts
+  slug: sustainable-finance-disclosure-regulation-experts
+  subtitle: CommonShare simplifies connections with certified SFDR (Sustainable Finance Disclosure Regulation) experts globally, streamlining the process for businesses and organizations in search of expert guidance on sustainability and environmental impact assessments.
+# companies
+featured_listing:
+  # 8 companies
+  items:
+    - name: Gesvalt
+      slug: gesvalt
+      location:   Spain 
+      description: "GESVALT, established in 1998, specializes in asset consulting and valuation, primarily in real estate, industrial, and financial sectors. Independent and approved by the Bank of Spain, it brings over two decades of experience and deep knowledge of diverse corporate cultures."
+    - name: ESG Book
+      slug: esg-book
+      location:   UK 
+      description: a global leader in sustainability data and technology. Launched in 2018, the company offers a range of ESG and climate solutions that are used by many of the world’s leading investors and companies. Covering over 50,000 companies, ESG Book’s product offering includes ESG raw data, company-level and portfolio-level scores and ratings, analytics tools, and a SaaS data management and disclosure platform.
+    - name: PWC
+      slug: pwc
+      location:   Belgium 
+      description: "At PwC, its purpose is to build trust in society and solve important problems. As a people-centric business, it aims to address major challenges and contribute to preparing Belgium for the next decade – its New Equation."
+    - name: Key ESG
+      slug: key-esg
+      location:   UK 
+      description: Intuitive ESG management software for fund managers and businesses that want to measure, report and improve their ESG.
+    - name: Normative
+      slug: normative
+      location:   Sweden 
+      description: Normative provides science-based carbon accounting software and tailored advice from net zero experts, enabling companies to reduce their carbon footprints.
+    - name: UL solutions
+      slug: ul-solutions
+      location:   USA 
+      description: A global leader in applied safety science, UL Solutions transforms safety, security, and sustainability challenges into opportunities for customers in more than 100 countries.
+    - name: Novata
+      slug: novata
+      location:   USA 
+      description: "A public benefit corporation, formed by The Ford Foundation, Omidyar Network, S&P Global, and Hamilton Lane, is dedicated to empowering private markets for a more sustainable and inclusive form of capitalism."
+    - name: PositionGreen
+      slug: positiongreen
+      location:   Norway 
+      description: "Position Green offers integrated sustainability solutions, leveraging technology and expertise to streamline processes and drive value creation."
+
+value_proposition: 
+  points:
+      - "Leverage our platform designed to simplify your search for SFDR specialists and consultants, tailored to meet your unique needs."
+      - CommonShare provides a diverse array of service providers, ensuring a comprehensive selection to meet your specific business requirements. 
+
+#standards related 
+industry_highlights:
+  title: "Standards  / Regulations for SFDR:"
+  stats:
+    - text: ISO 32210:2022 is an international standard that specifically pertains to sustainable finance and aligns with SFDR requirements. ISO 32210 provides guidelines for integrating sustainability considerations into investment management and decision-making processes. It covers aspects such as defining the scope of sustainable finance, establishing sustainability-related goals, and implementing strategies to achieve these goals. Adhering to ISO 32210 helps ensure a systematic approach to sustainable finance within an organization.
+    - text: IFRS, or International Financial Reporting Standards, is a set of accounting standards developed by the International Accounting Standards Board (IASB). While not directly focused on sustainability, IFRS is relevant to SFDR experts as it provides a framework for financial reporting. The IFRS Foundation has also taken steps to integrate sustainability reporting into its framework through the establishment of the International Sustainability Standards Board (ISSB). The ISSB aims to develop global sustainability reporting standards, providing consistency and comparability in disclosing sustainability-related information.
+  sections:
+   - ''
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About SFDR"
+  sections:
+  - "The financial landscape is undergoing a significant transformation with the growing awareness of environmental, social, and governance (ESG) factors. Investors and stakeholders are increasingly seeking transparency on how financial institutions integrate sustainability into their decision-making processes. The Sustainable Finance Disclosure Regulation (SFDR) stands as a pivotal framework in this context, setting the stage for a more sustainable and responsible financial future."
+  - "What is SFDR?"
+  - "The Sustainable Finance Disclosure Regulation (SFDR) is a regulatory framework implemented by the European Union (EU) to promote sustainable finance and ensure that market participants integrate environmental and social considerations into their investment decision-making processes. SFDR, which came into effect on March 10, 2021, is part of the EU's broader strategy to achieve a greener and more sustainable economy."
+  - "Experts in Sustainable Finance : "
+  - "SFDR has prompted the emergence of a cadre of experts specializing in sustainable finance. These experts play a crucial role in helping financial institutions navigate the complex landscape of ESG factors, ensuring compliance with SFDR, and guiding investors toward sustainable and responsible investment opportunities."
+  - "1. Legal Experts : Legal experts specializing in environmental law and financial regulations are in high demand to interpret and implement SFDR compliance. They assist financial institutions in understanding the legal obligations and implications of the regulation, ensuring that all aspects are in line with the EU's sustainability objectives."
+  - "2. ESG Analysts : Environmental, Social, and Governance (ESG) analysts have become indispensable in assessing the sustainability performance of companies and investment portfolios. These experts analyze various ESG metrics to provide valuable insights into a company's environmental impact, social responsibility, and governance practices. Their expertise is instrumental in helping investors make informed decisions aligned with SFDR requirements."
+  - "3. Data Scientists : The success of SFDR implementation heavily relies on data accuracy and transparency. Data scientists specializing in sustainable finance work on developing robust systems for collecting, analyzing, and reporting ESG data. Their work ensures that financial institutions have the necessary tools to meet SFDR disclosure obligations accurately."
+  - "Why SFDR Matters : "
+  - "SFDR holds significant importance for multiple stakeholders, ranging from investors and financial institutions to policymakers and the general public. Here are key reasons why SFDR matters:"
+  - "1. Enhancing Transparency : One of SFDR's primary objectives is to enhance transparency in the financial markets. By requiring disclosure of ESG-related information, the regulation ensures that investors have access to relevant data to make informed decisions. This transparency promotes accountability and helps align investments with sustainability goals."
+  - "2. Aligning Investments with Sustainability : SFDR plays a crucial role in aligning investments with sustainability objectives. It encourages financial institutions to consider the long-term impact of their investments on the environment and society. This alignment is essential for addressing global challenges such as climate change, social inequality, and environmental degradation."
+  - "3. Mitigating ESG Risks : The integration of ESG factors into investment decision-making helps mitigate risks associated with environmental and social issues. Companies that neglect sustainability considerations may face reputational damage, regulatory scrutiny, and financial risks. SFDR ensures that investors are aware of these risks and can make investment decisions accordingly."
+  - "4. Fostering Responsible Investing : SFDR fosters a culture of responsible investing by promoting ethical and sustainable practices. Investors are increasingly prioritizing investments that contribute positively to society and the environment. SFDR empowers them with the information needed to support companies and projects aligned with their values."
+  - "Who Does SFDR Apply To?"
+  - "SFDR applies to a wide range of financial market participants, including:"
+  - "1. Asset Managers : Asset managers, including investment funds, are directly impacted by SFDR. They are required to disclose information on how they integrate sustainability risks into their investment decision-making processes and the overall sustainability of their portfolios."
+  - "2. Investment Advisers : Investment advisers, providing advice on financial products, must also comply with SFDR. They are required to disclose how sustainability risks are integrated into their investment advice and whether their recommendations are consistent with sustainability objectives."
+  - "3. Financial Advisors : Financial advisors distributing financial products are subject to SFDR obligations. They must provide pre-contractual and periodic disclosures regarding the sustainability characteristics of the financial products they offer."
+  - "4. Pension Funds : Pension funds are included in the scope of SFDR, with specific disclosure requirements related to how sustainability risks are integrated into their investment decision-making processes."
+  - "Conclusion : In conclusion, the Sustainable Finance Disclosure Regulation (SFDR) marks a significant step toward creating a more sustainable and responsible financial ecosystem. As market participants navigate the complexities of compliance, experts in sustainable finance play a crucial role in ensuring a smooth transition toward a greener and more ethical financial landscape. SFDR's impact extends beyond regulatory compliance, influencing investment decisions, fostering transparency, and contributing to the global effort to address pressing environmental and social challenges. As the financial industry continues to evolve, SFDR stands as a beacon guiding the way toward a more sustainable future."
+
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: ESG Experts     
+      link_text: "See list >"
+      link_url: "#"
+    - name: LCA Experts
+      link_text: "See list >"
+      link_url: "#"
+    - name:  CSRD Experts
+      link_text: "See list >"
+      link_url: "#"
+    - name: ESRS Experts
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  SFDR "
+   subtitle: "Read articles from CommonShare's blog about SFDR"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

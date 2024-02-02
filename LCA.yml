@@ -1,0 +1,111 @@
+kind: "Service Providers"
+hero:
+  title: Life Cycle Assessment
+  slug: life-cycle-assessment
+  subtitle: CommonShare connects you with certified life cycle assessment experts worldwide, streamlining the process for businesses and organizations seeking professional guidance on sustainability and environmental impact assessments.
+
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name: "Greenly"
+      slug: greenly
+      location: 'USA'
+      description: "A staunch supporter in the fight against global warming."
+    - name: "Altermaker"
+      slug: altermaker
+      location: 'France'
+      description: "An expert in eco-design and LCA."
+    - name: "OneClickLCA"
+      slug: 'oneclicklca'
+      location: 'Finland'
+      description:  "Global leaders in construction sustainability, oneclickLCA drives eco-design and decarbonization worldwide."
+    - name: 'Ecohain'
+      slug: 'echochain'
+      location: 'Netherlands'
+      description: "Empowering global sustainability with user-friendly LCA solutions—Ecodesign with Ecochain Mobius and large-scale assessments with Ecochain Helix."
+    - name: "openLCA"
+      slug: 'openlca'
+      location: 'USA'
+      description:  A pioneer in sustainability, openLCA envisioned a modular framework for global life cycle modeling, fostering collaboration.
+    - name: 'IPoint'
+      slug: ipoint
+      location: Germany
+      description: A driving force in sustainable technology, iPoint's purpose, vision, and mission are shaped by a commitment to a prosperous, equitable, and sustainable world.
+    - name: Minviro
+      slug: minviro
+      location: UK
+      description: Minviro, a science-based company, offers solutions for sustainability, risk reduction, and long-term value. Its mission is to provide global businesses with scientific knowledge and tools for impact reduction. With over 200 projects since 2019, it supports raw material and technology value chains, including assessments for mining and reducing environmental impacts for leading battery and electric vehicle companies.
+    - name: 'EarthShiftGlobal'
+      slug: earthshiftglobal
+      location: 'USA'
+      description: "Guided by principles of integrity, trust, empowerment, inclusivity, and interconnectedness, the organization partners for a prosperous, sustainable world. Building genuine relationships, fostering collaboration, and embracing diverse perspectives, it values the interconnectedness of the earth and its inhabitants."
+
+value_proposition:
+  points:
+    - "Discover how CommonShare can help you locate top-tier experts in life cycle assessment (LCA) worldwide."
+    - "Leverage our platform designed to simplify your search for LCA specialists."
+    - "Find experts who can meet your unique needs and requirements in the field of life cycle assessment."
+
+#standards related 
+industry_highlights:
+  title: "Standards Related to Life Cycle Assessment"
+  stats:
+    - text: "ISO 14040: ISO 14040 is a foundational standard that provides the principles and framework for conducting LCA. It outlines the four main phases of an LCA study: Goal and Scope Definition, Inventory Analysis, Impact Assessment, and Interpretation."
+    - text: "ISO 14044: ISO 14044 is another essential standard that offers detailed requirements and guidelines for conducting LCA studies. It covers data quality, allocation procedures, selection of impact categories, and reporting of LCA results."
+    - text: "ISO 14025: ISO 14025 focuses on environmental labels and declarations, specifically Type III environmental product declarations (EPDs). These declarations provide quantified environmental information about products based on LCA results."
+    - text: "ISO 14046: ISO 14046 is dedicated to water footprint assessment. It provides guidelines for conducting water footprint assessments, including the principles, requirements, and recommendations for calculating and reporting water-related impacts."
+    - text: "ISO 14064: ISO 14064 addresses greenhouse gas (GHG) accounting and verification. While not specific to LCA, it is closely related, as LCA often includes GHG assessments. ISO 14064-1 covers GHG inventories, and ISO 14064-3 provides guidance for validating and verifying GHG assertions."
+
+  sections:
+    - ''
+
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About Life Cycle Assessment"
+  sections:
+    - Life Cycle Assessment (LCA), also known as life cycle analysis, is a systematic approach used to evaluate the environmental impact associated with all phases of a commercial product, process, or service's life cycle. For instance, when examining a manufactured product, the assessment encompasses everything from the extraction and processing of raw materials (known as the "cradle" stage), through manufacturing, distribution, usage, and eventually recycling or disposal of the product's constituent materials.
+    - An LCA study entails a comprehensive inventory of the energy and materials involved in the entire supply chain and value chain of a product, process, or service. It calculates the corresponding emissions that impact the environment. In essence, LCA evaluates the cumulative potential environmental impacts, with the objective of documenting and enhancing the overall environmental profile of the product. It provides a holistic foundation for comparing carbon footprints accurately. Widely recognized procedures for conducting LCAs are outlined in ISO's environmental management standards, particularly ISO 14040 and ISO 14044. ISO 14040 establishes the "principles and framework" of the Standard, while ISO 14044 outlines the "requirements and guidelines." ISO 14040 primarily targets a managerial audience, whereas ISO 14044 is more oriented towards practitioners.
+    - As defined in ISO 14040's introductory section, LCA examines the environmental aspects and potential impacts throughout a product's entire life cycle, from acquiring raw materials through production, use, and disposal. The main categories of environmental impacts considered encompass resource use, human health, and ecological consequences. LCA has faced criticism, both in terms of its methodology's consistency, difficulty, cost, protection of intellectual property, and the delineation of system boundaries. When LCA methodologies are not rigorously adhered to, results can be influenced by practitioners' perspectives or the economic and political interests of sponsoring entities, leading to different outcomes from different parties.
+    - LCA is sometimes interchangeably referred to as life cycle analysis, and due to its holistic examination of a product's life cycle impacts from raw material extraction (cradle) to disposal (grave), it is also known as "cradle-to-grave analysis." According to the Environmental Protection Agency's National Risk Management Research Laboratory, LCA is a technique to evaluate the environmental aspects and potential impacts associated with a product, process, or service by compiling an inventory of relevant energy and material inputs and environmental releases, assessing potential environmental impacts, and interpreting the results to inform decision-making.   
+    - Therefore, LCA serves as a means to assess the environmental consequences throughout a product's life cycle, including raw material extraction, materials processing, manufacturing, distribution, use, repair and maintenance, and disposal or recycling. The objective is to enable decision-makers to choose products or processes that minimize environmental impact by considering the entire product system, thus avoiding sub-optimization that might occur when evaluating only individual processes.
+    - In essence, LCA aims to compare the full spectrum of environmental effects attributable to products and services by quantifying all material flows' inputs and outputs and assessing their impact on the environment. This information facilitates process improvement, supports policy formulation, and provides a reliable basis for informed decision-making. The "life cycle" in LCA implies that a comprehensive assessment entails evaluating raw material production, manufacturing, distribution, use, and disposal, including all transportation steps necessitated by the product's existence.
+    - Despite efforts to standardize LCA, results from different studies often yield contradictory outcomes. As such, LCA should not be seen as providing unique and objective results but rather as a family of methods attempting to quantify results from different perspectives. There are two primary types of LCA methods ":" Attributional LCA and Consequential LCA. Attributional LCA seeks to attribute the burdens associated with the production and use of a product or service over a defined temporal period, while Consequential LCA focuses on identifying the environmental consequences of decisions or proposed changes in a system and incorporates market and economic considerations. Another type, "social LCA," assesses potential social and socio-economic implications and impacts and is intended to evaluate a product or service's effects on various stakeholders.
+    - Social Life Cycle Assessment (SLCA) is a valuable tool for companies to identify and assess potential social impacts across a product or service's lifecycle on stakeholders such as workers, local communities, and consumers. SLCA follows guidelines from UNEP/SETAC and builds upon ISO 26000:2010 Guidelines for Social Responsibility and the Global Reporting Initiative (GRI) Guidelines.
+    - LCA's limitation in focusing solely on ecological aspects distinguishes it from methods like product line analysis (PLA), which consider economic and social factors. However, this limitation is intentional to avoid methodological complexity, although it recognizes the importance of considering these factors when making product decisions. ISO 14000 series standards, particularly ISO 14040 and 14044, provide widely accepted procedures for LCA. Greenhouse gas (GHG) product life cycle assessments can also adhere to specifications such as Publicly Available Specification (PAS) 2050 and the GHG Protocol Life Cycle Accounting and Reporting Standard.
+    - "According to ISO 14040 and 14044 standards, LCA consists of four distinct phases, each informing the subsequent stages, and none of the phases is considered finalized until the entire study is completed. These phases are:"
+    - "Goal and Scope: The LCA begins with a clear statement of the study's purpose, audience, intended application, and reasons for conducting it. The scope outlines qualitative and quantitative details, such as the product system, functional unit, reference flow, system boundary, assumptions and limitations, data quality requirements, and allocation procedure."
+    - "Inventory Analysis: This phase involves collecting data on the inputs and outputs of material and energy flows throughout the product's life cycle."
+    - "Impact Assessment: Impact categories, such as resource depletion or human health effects, are assessed based on the collected inventory data."
+    - "Interpretation: The results are evaluated, and conclusions are drawn, often considering the potential for improvement and making recommendations for environmentally sound decisions."
+    - "In summary, LCA is a comprehensive methodology used to evaluate the environmental impact of a product, process, or service across its entire life cycle, from raw material extraction to disposal or recycling. It aims to provide a holistic assessment of environmental effects and inform sustainable decision-making."
+
+
+
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: Double Materiality Analysis
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Scope 3 Emissions"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Supply Chain Mapping"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Environmental Product Declarations"
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about Life Cycle Assessment"
+   subtitle: "Read articles from CommonShare’s blog about Life Cycle Assessment"
+   content:
+   #no further info is provided for this section
+      - slug: ''

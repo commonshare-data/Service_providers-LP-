@@ -1,0 +1,118 @@
+kind: "Service Providers"
+hero:
+  title: Organic Certification
+  slug: organic-certification
+  subtitle: CommonShare enables connections with Organic Certification bodies, consultants, and professionals on a global scale. This streamlines the process for businesses and organizations in search of expert guidance for sustainability and environmental impact assessments.
+
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name: Oregon Tilth
+      slug: oregon-tilth
+      location: USA
+      description: A nonprofit research and education membership organization dedicated to biologically sound and socially equitable agriculture.
+    - name: "Food Safety SA"
+      slug:  food-safety-sa 
+      location: 'Argentina'
+      description: "Global organic certifiers, Food Safety ensures product compliance worldwide, providing ongoing training for employees and auditors."
+    - name:    Zenith Quality Assessors Pvt. Ltd. 
+      slug:  zenith-quality-assessors-pvt-ltd. 
+      location: India
+      description:  Founded on October 14, 2005, Zenith Quality Assessors Pvt. Ltd. provides professional services, including management system audit, certification, product certification, and training, across sectors like Medical Devices, Engineering, Food, Education, Construction, and Information Technology.
+    - name:  Organic Trust 
+      slug:  organic-trust 
+      location: 'Ireland'
+      description: "Ireland's premier organic certification, The Organic Trust, stands out for its extensive technical expertise and excellence in supporting members."
+    - name:  SSOCA
+      slug:  sikkim-state-organic-certification-agency
+      location: India
+      description: Established on December 31, 2015, with the financial backing of the Government of Sikkim, it operates as an autonomous organization ,  its mandate is to certify organic production and processing systems in the state and country, adhering to both National and International Organic Standards. 
+    - name: NASAA Certified Organic NCO.
+      slug: nasaa-certified-organic-nco.
+      location: 'Australia'
+      description: Highly recognised nationally and internationally as one of Australia's leading organic certification organisations. With operations in Australia and overseas, NCO provides certification and inspection services which assist in facilitating market access throughout the world for NCO certified products.
+    
+    - name:   Rainforest Alliance 
+      slug:  rainforest-alliance
+      location: USA
+      description:   An international non-profit organization working to create a better future for people and nature 
+    
+    - name:  U.S. Green Building Council  
+      slug: u.s.-green-building-council
+      location: 'USA'
+      description: Committed to a sustainable, prosperous future through LEED, the leading program for green buildings and communities worldwide. 
+
+value_proposition: 
+  points:
+      - Explore CommonShare to discover leading Organic Certification bodies worldwide.
+      - CommonShare connects you with the ideal certification bodies, whether for initiating a sustainability project or addressing challenges in finding expertise. 
+
+#standards related 
+industry_highlights:
+  title: "Standards for Implementing Organic Certification :"
+  stats:
+    - text: "ISO 33407 : A standard that provides guidelines for the production, labeling, and marketing of organic products. It outlines general principles and criteria for organic farming and production systems."
+    - text: "ISO 22000 : An international standard for food safety management systems. It sets out the criteria for an organization's food safety management system, ensuring that food is safe for consumption."
+    - text: "(EU) 2018/848: This refers to the European Union (EU) Regulation 2018/848 on organic production and labeling of organic products. It establishes the rules for organic farming, labeling, and control within the EU."
+
+  sections:
+   - ''
+
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About Organic Certification "
+  sections:
+      - Organic certification has become increasingly crucial in the modern agricultural landscape as consumers are becoming more conscious of their food choices. This certification is a stamp of approval that guarantees a product has been produced according to strict organic farming standards. In this article, we will delve into what organic certification entails, why it matters, who it applies to, and its broader implications for the environment and human health.
+      - At its core, organic certification is a process that verifies that agricultural products have been produced through methods that align with organic farming principles. These principles typically include practices that prioritize soil health, biodiversity, and the absence of synthetic pesticides and fertilizers. The goal is to ensure that the entire process, from planting to harvesting, processing, and packaging, adheres to stringent organic standards.Organic certification is typically granted by third-party organizations or government agencies that specialize in monitoring and regulating organic practices. These certifying bodies conduct thorough inspections and audits to ensure that farmers and producers comply with the defined organic standards.
+      - Why Does Organic Certification Matter?
+      - "Environmental Sustainability : Organic farming methods prioritize sustainability by avoiding the use of synthetic chemicals that can harm the environment. Organic practices focus on soil health, crop rotation, and the use of natural fertilizers, contributing to the conservation of biodiversity and the overall health of ecosystems."
+      - "Consumer Health : One of the primary reasons consumers seek out organic products is the belief that they are healthier. Organic certification ensures that the food they are purchasing is free from synthetic pesticides, herbicides, and genetically modified organisms (GMOs). This is particularly important for those concerned about the potential health risks associated with the consumption of chemical residues"
+      - "Animal Welfare : Organic standards often extend beyond plant cultivation to include guidelines for the treatment of animals in organic farming systems. This includes access to outdoor spaces, proper living conditions, and the absence of antibiotics and growth hormones."
+      - "Soil Health : Organic farming practices prioritize soil health through the use of compost, cover cropping, and crop rotation. This not only enhances the fertility of the soil but also helps mitigate soil erosion, a critical issue in conventional agriculture."
+      - Who Does Organic Certification Apply To?
+      - "Farmers:   Organic certification is most commonly associated with farmers who cultivate crops or raise livestock. Farmers seeking organic certification must adhere to specific guidelines in their farming practices, such as avoiding synthetic chemicals, using organic seeds, and implementing sustainable soil management techniques."
+      - "Food Processors and Manufacturers:   Beyond the farm, organic certification also applies to those involved in processing and manufacturing organic products. This includes food processors, manufacturers of organic clothing, and other products made from organic materials."
+      - "Retailers:   Retailers that sell organic products are also part of the organic certification process. They must ensure that the products they carry are certified by verifying the organic certification of their suppliers."
+      - "Restaurants and Caterers:   The organic certification extends to the food service industry as well. Restaurants and caterers that wish to label their offerings as organic must source certified organic ingredients."
+      - "Importers and Exporters:   In the global market, organic certification is essential for both importers and exporters of organic products. This ensures that products moving across borders meet the organic standards of the respective countries."
+      - "Challenges in Organic Certification:"
+      - "Costs:   Obtaining and maintaining organic certification can be expensive, particularly for small-scale farmers. The fees associated with certification, along with the costs of transitioning to organic practices, can be a barrier for some."
+      - "Complexity:   The certification process can be complex and time-consuming. Farmers and producers need to keep detailed records of their practices, and compliance requires a thorough understanding of the organic standards."
+      - "Global Standards:   Organic standards can vary between countries and regions, creating challenges for international trade. Harmonizing global organic standards would facilitate the movement of organic products across borders."
+      - "Fraudulent Practices:   The growing demand for organic products has led to instances of fraud, where products are falsely labeled as organic. Strengthening oversight and enforcement is crucial to maintaining the integrity of the organic certification system."
+      - "Impact of Organic Certification:"
+      - "Economic Benefits:   While the initial costs of obtaining organic certification can be a challenge, many farmers find that the premium prices they can charge for organic products offset these expenses. Additionally, organic farming practices often lead to increased efficiency and reduced reliance on external inputs over time."
+      - "Environmental Conservation:   Perhaps the most significant impact of organic certification is the positive effect on the environment. By promoting sustainable farming practices, organic certification contributes to soil health, water conservation, and the overall biodiversity of ecosystems."
+      - "Human Health:   The absence of synthetic pesticides and chemicals in organic farming directly benefits human health. Consumers who choose organic products can reduce their exposure to potentially harmful substances, promoting a healthier lifestyle."
+      - "Climate Change Mitigation:   Organic farming practices, such as carbon sequestration in the soil, contribute to mitigating climate change. By avoiding synthetic fertilizers and pesticides, organic agriculture reduces greenhouse gas emissions associated with their production and use."
+      - "Conclusion:"
+      - Organic certification plays a crucial role in ensuring the integrity of organic products, providing consumers with a reliable way to make informed choices about the food they consume. While challenges exist, the overall impact of organic certification on environmental sustainability, human health, and the well-being of communities involved in organic farming is undeniable. As consumer awareness continues to grow, the demand for organic products and the importance of organic certification are likely to increase, driving further innovation and improvements in the organic farming sector.      
+      # 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+
+    - name: Fair Trade Certification 
+      link_text: "See list >"
+      link_url: "#"
+    - name: FSC Forest Certification
+      link_text: "See list >"
+      link_url: "#"
+    - name:  Global Recycled Standard
+      link_text: "See list >"
+      link_url: "#"
+    - name: B Corp Certification
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  Organic Certification"
+   subtitle: "Read articles from CommonShare's blog about Organic Certification"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

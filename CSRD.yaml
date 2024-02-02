@@ -1,0 +1,118 @@
+kind: "Service Providers"
+hero:
+  title: CSRD (Corporate Sustainability Reporting Directive) experts
+  slug: csrd-corporate-sustainability-reporting-directive-experts
+  subtitle: CommonShare facilitates connections with certified CSRD experts globally, simplifying the journey for businesses and organizations in search of professional guidance on sustainability and environmental impact assessments.
+# companies
+featured_listing:
+  # 8 companies
+  items:
+    - name: HedgeHogCompany
+      slug: hedgehogcompany
+      location:   Netherlands 
+      description: Hedgehog Company collaborates globally, assisting organizations, investors, and project developers in sustainable transitions. Employing a systems-thinking approach and data-driven support, it guides organizations through a threefold strategy of assessing, planning, and implementing sustainability measures for a future-proof, thriving entity.
+    - name: CG Business Consulting
+      slug: cg-business-consulting
+      location:   Ireland 
+      description: Ireland's leading ISO and Sustainability Consultants. it specialises in designing, implementing and upgrading ISO 9001 Quality Management Systems, ISO 14001 Environmental Management Systems and ISO 45001 Health and Safety Management Systems.
+    - name: Jordisk
+      slug: jordisk
+      location:   USA 
+      description: A sustainability consulting firm, helping businesses to become more sustainable.
+    - name: RSM
+      slug: rsm
+      location:   Netherlands 
+      description: "As a leading advisor in assurance, tax, and consulting, RSM empowers clients globally with over 650 professionals across eight Netherlands locations."
+    - name: LRQA
+      slug: lrqa
+      location:   China 
+      description: A global market leader in Environmental, Social and Governance (ESG), sustainability and supply chain services. it designs, builds and manages data driven sustainability linked programs with assessment, advisory, program management and analytics that drive positive impact.
+    - name: The Biodiversity Consultancy Ltd
+      slug: the-biodiversity-consultancy-ltd
+      location:   UK 
+      description: Delivering practical solutions for managing biodiversity risk and achieving nature positive outcomes.
+    - name: AFRY
+      slug: afry
+      location:   Sweden 
+      description: a European leader in engineering, design, and advisory services, with a global reach. We accelerate the transition towards a sustainable society.
+    - name: Benchmark Consulting Global Ltd
+      slug: benchmark-consulting-global-ltd
+      location:   UK 
+      description: A market leading technology and consultancy firm specialising in the unit price benchmarking of packaging and carbon transparency within the value chain via its uniquely designed software.
+
+
+value_proposition: 
+  points:
+      - Utilize our platform designed to simplify your search for CSRD specialists and software solutions tailored to your unique needs.
+      - CommonShare provides a diverse array of service providers, ensuring a comprehensive selection to meet your specific business requirements. 
+
+#standards related 
+industry_highlights:
+  title: "Standards  / Regulations for CSRD :"
+  stats:
+    - text: "ISO 14067: ISO 14067 is an international standard that provides guidelines for quantifying and reporting the carbon footprint of a product. It outlines the principles, criteria, and requirements for conducting a life cycle assessment (LCA) to measure the greenhouse gas emissions associated with a product throughout its life cycle."
+    - text: "European Sustainability Reporting Standards (ESRS): The ESRS refers to a set of standards developed by the European Financial Reporting Advisory Group (EFRAG) to enhance the consistency and comparability of sustainability reporting within the European Union. These standards cover various aspects of sustainability reporting, providing a framework for organizations to disclose non-financial information effectively."
+  sections:
+   - ''
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About CSRD"
+  sections:
+  - "In a time when climate change, social inequality, and economic disparity are at the forefront of global discourse, the need for responsible corporate behavior has never been more pronounced. The Corporate Sustainability Reporting Directive (CSRD) emerges as a transformative policy within the EU to address these issues by enhancing transparency in sustainability reporting. Recognizing the importance of accurate and comparable data, the CSRD aims not only to bring about a paradigm shift in corporate reporting but also to facilitate informed decision-making by stakeholders. This article delves into the essence of CSRD, its critical importance, who is governed by its mandate, and how it aligns with the European Sustainability Reporting Standards (ESRS)."
+  - " What Is CSRD?"
+  - "The Corporate Sustainability Reporting Directive (CSRD) stands as a landmark regulation proposed by the European Commission in April 2021. It represents an ambitious evolution from the existing Non-Financial Reporting Directive (NFRD), considerably expanding its scope and detail. The main objective of CSRD is to improve the consistency, comparability, and reliability of sustainability information provided by companies. It ensures that businesses disclose information on how they fare and influence society concerning environmental protection, social responsibility, and corporate governance (ESG)."
+  - "Experts in sustainability reporting regard the CSRD as a crucial step toward standardized global reporting norms. With mandated disclosures on issues such as climate change impacts, workforce diversity, and anti-corruption measures, CSRD-engendered reports are meant to reveal the long-term sustainability outlook of businesses."
+  - " Why Does CSRD Matter?"
+  - "Enhancing Stakeholder Confidence : Investors, consumers, and the general public increasingly demand transparency in corporate sustainability practices. The CSRD addresses this by mandating detailed and reliable reporting, which in turn fosters stakeholder trust. Many experts argue it will facilitate more sustainable investment decisions and consumer choices."
+  - "Driving Sustainable Practices : By mainstreaming sustainability reporting, CSRD encourages companies to integrate sustainable practices into their business operations and strategies. This creates a virtuous cycle where businesses not only report on their sustainability efforts but continually improve them to meet stakeholder expectations."
+  - "Bridging Information Gaps : Under the current NFRD system, many companies still provide insufficient sustainability information, making it challenging to assess their actual impact on society and the environment. The CSRD aims to bridge these information gaps, providing a comprehensive view of corporate sustainability performance."
+  - "Contributing to EU Sustainability Goals : The directive strengthens the EU’s commitment to achieving the United Nations Sustainable Development Goals (SDGs) and the targets set by the European Green Deal. It is in line with the EU’s ambition to become a frontrunner in sustainable economic development globally."
+  - " Who Does CSRD Apply To?"
+  - "The CSRD extends the reach of its predecessor, NFRD, by broadening the spectrum of companies required to comply with sustainability reporting:"
+  - "- Its mandates will apply to all large companies, regardless of whether they are publicly listed, bringing the total number of companies affected from around 11,000 to nearly 50,000 within the EU."
+  - "- Listed SMEs, except micro-enterprises, will also be subjected to the new reporting requirements, granting them the possibility to adhere to simplified standards."
+  - "- Moreover, third-country companies with substantial activity in the EU (net turnover exceeding €150 million in the EU) will also be subject to CSRD."
+  - " Connecting CSRD & ESRS :"
+  - "The European Sustainability Reporting Standards (ESRS) are developed by the European Financial Reporting Advisory Group (EFRAG) and are integral to the CSRD framework. The ESRS will craft the detailed content of the sustainability information that companies must provide under the CSRD. The synergy between the CSRD and ESRS lies in the provision of a set of harmonized standards ensuring that the reporting is comparable and meaningful across all businesses within the EU."
+  - "The development of ESRS follows a commitment to create standards that are user-friendly, proportionate, and effective in delivering relevant information. The standards are being devised through transparent processes, informed by the expertise of a wide range of stakeholders."
+  - " Implementation Timeline :"
+  - "The CSRD is expected to come into effect in stages, with various companies being incrementally brought into the fold:"
+  - "- For companies already subject to the NFRD, CSRD reporting will begin in 2024, focusing on the 2023 fiscal year."
+  - "- Large companies not previously subject to NFRD will start reporting in 2025 for the 2024 fiscal year."
+  - "- Listed SMEs, small and non-complex credit institutions, and captive insurance undertakings will start in 2026, covering the 2025 fiscal year."
+  - " Key Aspects of CSRD Reporting : "
+  - "Double Materiality: A defining characteristic of CSRD reporting is the 'double materiality' perspective. This concept requires companies to report on how sustainability issues affect their business (financial materiality) as well as on their business’s impact on people and the environment (environmental and social materiality)."
+  - "Assured Quality : Reports under the CSRD will be subject to third-party assurance to guarantee their reliability, providing additional reassurance to stakeholders about the information disclosed by companies."
+  - "Digitization: The CSRD will also mandate that reports are digital, facilitating their analysis and accessibility. This step is part of the broader European Single Access Point (ESAP) initiative, aimed at creating a central hub for EU financial and non-financial information."
+  - "Conclusion"
+  - "The CSRD signifies a major leap forward in the transformation of corporate sustainability reporting. Its aim to create more transparent, consistent, and comparable reporting mechanisms across the EU is a response to the growing urgency of sustainable development and responsible corporate conduct."
+  - "With the ultimate goal of fostering a sustainable economy and society, the CSRD equips various stakeholders—investors, regulators, consumers, and companies themselves—with the data required to make informed decisions. Moreover, the synergy with ESRS promises a robust and standardized reporting framework, ensuring that the EU continues to lead the way in sustainability efforts."
+  - "As companies prepare for its implementation, and experts continue to refine its details, the CSRD stands to reshape the landscape of corporate reporting fundamentally. In this new paradigm, sustainability becomes not an ancillary consideration but a core aspect of business strategy and disclosure, reflecting the increasing recognition of its centrality to long-term success and resilience."
+  - "For organizations within its scope, the CSRD is an impetus for introspection and evolution—ushering in a future where corporate success is inextricably linked to sustainability performance. As corporate entities and experts navigate this new directive, the CSRD will likely serve as both a challenge and an opportunity—a symbol of a maturing global conscience towards sustainable development."
+  - 
+  - # 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: ESG Experts     
+      link_text: "See list >"
+      link_url: "#"
+    - name: LCA Experts
+      link_text: "See list >"
+      link_url: "#"
+    - name:  ESRS Experts
+      link_text: "See list >"
+      link_url: "#"
+    - name: SFDR Experts
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  CSRD "
+   subtitle: "Read articles from CommonShare's blog about CSRD"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''

@@ -1,0 +1,116 @@
+kind: "Service Providers"
+hero:
+  title: Environmental Product Declarations (EPD)
+  slug: environmental-product-declarations
+  subtitle: CommonShare facilitates connections with certified software solutions, consultants, and professionals specializing in Environmental Product Declarations worldwide. This simplifies the process for businesses and organizations seeking expert guidance on sustainability and environmental impact assessments.
+
+
+
+# companies
+
+featured_listing:
+  # 8 companies
+  items:
+    - name: Normec OWS
+      slug: normec-ows
+      location: Belgium
+      description: "Normec OWS, a global leader in biodegradation and compostability testing since 1988. It's services include waste management consultancy, sustainability assessment, compost analyses, and customized projects for diverse client needs."
+    - name: "Green Badger"
+      slug: green-badger
+      location: 'USA'
+      description: "Green Badger innovates construction sustainability with automated LEED compliance and ESG metric tracking, saving project teams time."
+
+    - name:   Labeling Sustainability Inc.  
+      slug:  labeling-sustainability-inc
+      location: 'USA'
+      description:  "Labeling Sustainability guides businesses in environmental accountability, offering expertise in transparency documentation, ESG consulting, and impactful training programs for efficient and sustainable operations."
+    - name: 'National Ready Mixed Concrete Association (NRMCA)'
+      slug: 'national-ready-mixed-concrete-association'
+      location: 'USA'
+      description: "Established in 1930, the National Ready Mixed Concrete Association is the foremost industry advocate, dedicated to providing exceptional value to members through responsible representation and service."
+    - name:  UL Solutions 
+      slug:  ul-solutions 
+      location: 'USA'
+      description:  A global leader in applied safety science, UL Solutions transforms safety, security, and sustainability challenges into opportunities for customers in more than 100 countries.
+    - name: 'Ecohain'
+      slug: 'echochain'
+      location: 'Netherlands'
+      description: "Empowering global sustainability with user-friendly LCA solutions—Ecodesign with Ecochain Mobius and large-scale assessments with Ecochain Helix."
+    
+    - name:  Ecomatters BV 
+      slug:  ecomatters-bv 
+      location: Netherlands
+      description:  "Ecomatters, a sustainability consultancy, collaborates with businesses and organizations globally. Specializing in life cycle thinking, it offers expertise in areas like Life Cycle Assessment, Circular Economy, and Sustainability reporting. Passionate about sustainability, Ecomatters helps clients make informed decisions and communicate effectively for enhanced business value."
+    
+    - name: 'BRE'
+      slug: building-research-establishment
+      location: 'UK'
+      description: "BRE innovates for better, sustainable buildings globally. A century of cutting-edge research serves government and industry, aiming to be the leading hub for built environment innovation."
+
+value_proposition: 
+  points:
+      - Explore CommonShare for global EPD expertise.
+      - Discover specialists tailored to your unique needs.
+
+#standards related 
+industry_highlights:
+  title: "Standards for Implementing Environmental Product Declarations :"
+  stats:
+    - text: ISO 14025 provides guidelines for Type III Environmental Declarations, specifically Environmental Product Declarations (EPDs). A Type III declaration is a standardized method for communicating a product's environmental performance throughout its life cycle, based on life cycle assessment (LCA) data. ISO 14025 emphasizes transparency and credibility in environmental communication, using a standardized EPD format for easier understanding and comparison. It aligns with life cycle thinking, considering environmental aspects from raw material extraction to disposal. The standard recommends Product Category Rules for consistency and comparability within product categories and encourages third-party verification to enhance EPD credibility, ensuring adherence to data collection, analysis, and reporting standards."
+    - text: EN 15804 is a European standard that addresses the sustainability of construction works through Environmental Product Declarations (EPDs) for construction products, providing core rules to ensure consistency and comparability within the industry. It outlines a Life Cycle Assessment (LCA) Methodology, covering system boundaries, environmental impact categories, and functional units for comparison. The standard recommends Product Category-Specific Rules (PSCRs), akin to ISO 14025's PCR, offering detailed guidance on environmental performance indicators and calculation methods for specific construction product categories. Furthermore, EN 15804 aligns with the International EPD System and other global standards, fostering harmonization and facilitating the exchange of EPDs internationally.
+  sections:
+   - ''
+
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About Environmental Product Declarations"
+  sections:
+      - What is an Environmental Product Declaration (EPD) ?
+      - An Environmental Product Declaration (EPD) is a comprehensive document that communicates transparent and verified information about the environmental performance of a product throughout its life cycle. It is a standardized way of presenting data related to the environmental impact of a product, helping stakeholders make informed decisions based on reliable and comparable information.EPDs are typically based on Life Cycle Assessment (LCA), a methodology that evaluates the environmental burdens associated with a product from raw material extraction to disposal. The goal is to provide a holistic view of a product's impact on the environment, covering aspects such as resource consumption, emissions, and waste generation.
+      - "Significance of EPD :"
+      - " - Environmental Accountability and Corporate Social Responsibility (CSR) : Businesses that voluntarily provide EPDs for their products demonstrate a commitment to environmental transparency and accountability. This not only enhances their reputation but also encourages a culture of responsible production and consumption. Incorporating EPDs into business practices aligns with the principles of Corporate Social Responsibility (CSR). It demonstrates a commitment to environmental stewardship and contributes to a company's efforts to mitigate its ecological footprint."
+      - " - Market Access, Compliance, and Informed Decision-Making : In some regions, adherence to environmental standards is a legal requirement for certain products. Having an EPD can facilitate market access by ensuring compliance with regulatory frameworks. It also positions a product favorably in markets where sustainability is a key differentiator. EPDs empower consumers, businesses, and policymakers to make informed decisions about the products they use, manufacture, or regulate. By presenting clear and standardized information, EPDs allow for a comparison between different products, fostering a shift towards more sustainable options."
+      - " - Product Innovation and Optimization : EPDs can act as a catalyst for product innovation and optimization. When businesses have a clear understanding of the environmental impact of their products, they can identify areas for improvement and work towards developing more sustainable alternatives."
+      -  "Manufacturers and Producers : "
+      - " - Stakeholders in the Building and Construction Industry : Manufacturers and producers are primary candidates for EPDs, showcasing their commitment to sustainability. Architects and designers in the construction industry use EPDs to select environmentally friendly materials, supporting the industry's move towards sustainability. The construction and building sector, a significant consumer of materials, utilizes EPDs for products like cement and steel to align with green building standards."
+      - " - Supply Chain and Retail : Retailers and distributors play a crucial role in connecting products with end consumers. They can use EPDs to curate sustainable product offerings, aligning with the growing demand for environmentally conscious choices. End consumers, increasingly concerned about product impacts, can make informed choices using EPDs, influencing market trends."
+      - " - Regulatory Environment : Government and regulatory bodies may mandate the use of EPDs in certain industries or for specific products. This integration ensures that environmental considerations are part of regulatory frameworks, promoting sustainable practices at a broader level."
+      - "Types of EPDs :"
+      - "Single-Product EPD: A single-product EPD assesses the environmental performance of a specific product. This type is suitable for manufacturers looking to provide comprehensive information about a particular item in their product range."
+      - "Multi-Product EPD :A multi-product EPD covers the environmental performance of multiple products within a product category or product group. This allows for a more efficient assessment when products share similar characteristics."
+      - "Sector EPD: A sector EPD provides an overview of the average environmental performance within a specific industrial sector or product category. This type of EPD is useful for stakeholders seeking a broader understanding of environmental impacts across an entire sector."
+      - "Business-to-Business (B2B) EPD: A Business-to-Business EPD is specifically tailored for use in business transactions between suppliers and customers. It includes information relevant to procurement decisions and supply chain considerations."
+      - "Challenges and Future Developments :"
+      - 'Data Availability and Quality : Obtaining accurate and reliable data for EPD development can be challenging, especially for smaller companies with limited resources. Ensuring the quality and availability of data throughout the supply chain is essential for the credibility of EPDs.'
+      -  'Standardization and Harmonization: The development of EPDs involves adherence to specific standards, but the lack of global harmonization can lead to variations in methodologies and requirements. Efforts to standardize and harmonize EPD practices globally would enhance their consistency and comparability.'
+      -  'Awareness and Education: Many businesses and consumers are still unaware of the existence and significance of EPDs. Increasing awareness and providing education on the benefits of EPDs can contribute to their broader acceptance and utilization.'
+      -  "Integration with Certification Schemes: While EPDs provide valuable environmental information, integrating them with existing certification schemes (e.g., eco-labels) could offer a more comprehensive picture of a product's overall sustainability.'"
+      -  'Continuous Improvement : EPDs need to be regularly updated to reflect changes in production processes, materials, and technologies. Continuous improvement and updates ensure that the information presented remains accurate and relevant over time.'
+      - Conclusion
+      - In conclusion, Environmental Product Declarations (EPDs) serve as influential tools fostering sustainable consumption and production. By providing transparent information on the environmental performance of products, EPDs enable informed decision-making for a wide range of stakeholders, from businesses demonstrating sustainability commitment to consumers making environmentally conscious choices. Their application spans various industries and participants, including manufacturers, designers, government bodies, and end consumers. As environmental considerations grow in importance, EPDs are poised to play an increasingly vital role in shaping the manufacturing, consumption, and regulation of products. Global collaboration is crucial for unlocking the full potential of EPDs as catalysts for positive environmental change.
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: "Life Cycle Assessment"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Double Materiality Analysis"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Scope 3 Emissions"
+      link_text: "See list >"
+      link_url: "#"
+    - name: "Supply Chain Mapping"
+      link_text: "See list >"
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  Environmental Product Declarations"
+   subtitle: "Read articles from CommonShare's blog about Environmental Product Declarations"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''
