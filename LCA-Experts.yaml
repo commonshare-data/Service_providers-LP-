@@ -1,0 +1,140 @@
+kind: "Service Providers"
+hero:
+  title: Life Cycle Assessment experts
+  slug: life-cycle-assessment-experts
+  subtitle: CommonShare connects you with certified life cycle assessment experts worldwide, streamlining the process for businesses and organizations seeking professional guidance on sustainability and environmental impact assessments.
+# companies
+featured_listing:
+  # 8 companies
+  items:
+    - name: iPoint Systems
+      slug: ipoint-systems
+      location:   Germany 
+      description: "iPoint enables companies to assess and manage environmental, social, and economic impacts through digitalized lifecycle management, ensuring compliance, risk, and sustainability."
+    - name: WAP Sustainability
+      slug: wap-sustainability
+      location:   USA 
+      description: A global technical sustainability consulting firm supporting brands, manufacturers and public companies.
+    - name: EarthShiftGlobal
+      slug: earthshiftglobal
+      location:   USA 
+      description: Guided by principles of integrity, trust, empowerment, inclusivity, and interconnectedness, the organization partners for a prosperous, sustainable world. Building genuine relationships, fostering collaboration, and embracing diverse perspectives, it values the interconnectedness of the earth and its inhabitants.
+    - name: PRé Sustainability
+      slug: pré-sustainability
+      location:   Netherlands 
+      description: "As pioneers in eco-measurement, PRé Sustainability began with a simple question: 'how can we measure eco?' This led to SimaPro, now empowering environmental professionals worldwide."
+    - name: 2.-0 LCA consultants
+      slug: 2.-0-lca-consultants
+      location:   Denmark 
+      description: Founded in 2000, its objective is to contribute to sustainable development by removing obstacles to optimised decision-making.
+    - name: SSC (Strategic Sustainability Consulting)
+      slug: ssc--strategic-sustainability-consulting
+      location:   USA 
+      description: "Strategic Sustainability Consulting equips organizations with tools to actively manage social and environmental impacts, specializing in solutions for under-resourced organizations, typically reserved for larger companies."
+    - name: ERKE
+      slug: erke
+      location:   Turkey 
+      description: Founded in 2007, ERKE initially offered electrical project design and lighting consultancy, expanding into green building, products, and corporate sustainability consulting since 2009. ERKE Sustainable Building Design provides innovative solutions through a team of interdisciplinary experts.
+    - name: Escarus
+      slug: escarus
+      location:   Turkey 
+      description: "Founded in April 2011, ESCARUS, a TSKB group company, offers sustainability solutions through its experienced team. Leveraging TSKB's 71 years of expertise and globally awarded models, ESCARUS specializes in Environment, Energy, and Sustainability with a strong corporate approach."
+
+
+value_proposition: 
+  points:
+      - Explore how CommonShare can aid you in discovering top-tier experts and software solutions for Life Cycle Assessment (LCA) worldwide.
+      - Take advantage of our platform crafted to streamline your search for LCA specialists and software solutions tailored to your unique needs.
+
+#standards related 
+industry_highlights:
+  title: "Standards  / Regulations  LCA:"
+  stats:
+    - text: "ISO 14040: ISO 14040 is a foundational standard that provides the principles and framework for conducting LCA. It outlines the four main phases of an LCA study: Goal and Scope Definition, Inventory Analysis, Impact Assessment, and Interpretation."
+    - text: "ISO 14044: ISO 14044 is another essential standard that offers detailed requirements and guidelines for conducting LCA studies. It covers data quality, allocation procedures, selection of impact categories, and reporting of LCA results."
+    - text: "ISO 14025: ISO 14025 focuses on environmental labels and declarations, specifically Type III environmental product declarations (EPDs). These declarations provide quantified environmental information about products based on LCA results."
+    - text: "ISO 14046: ISO 14046 is dedicated to water footprint assessment. It provides guidelines for conducting water footprint assessments, including the principles, requirements, and recommendations for calculating and reporting water-related impacts."
+    - text: "ISO 14064: ISO 14064 addresses greenhouse gas (GHG) accounting and verification. While not specific to LCA, it is closely related, as LCA often includes GHG assessments. ISO 14064-1 covers GHG inventories, and ISO 14064-3 provides guidance for validating and verifying GHG assertions."
+
+  sections:
+   - ''
+#about section
+about_location:
+  icon: "fas fa-info-circle"
+  title: "About LCA"
+  sections:
+  - "At its core, Life Cycle Assessment is a systematic approach to evaluate the environmental aspects of a product, process, or service. It aims to provide a comprehensive understanding of the resource use, energy consumption, and environmental emissions associated with a particular item or activity. LCA is grounded in a cradle-to-grave approach, considering all stages of a product's life cycle, including raw material extraction, manufacturing, transportation, use, and disposal."
+  - "The Four Phases of LCA : "
+  - "1. Goal and Scope Definition: The first step involves clearly defining the objectives of the assessment and establishing the boundaries. What environmental impacts will be assessed, and at what stages of the life cycle will the analysis focus?"
+  - "2. Inventory Analysis: This phase entails collecting data on all inputs and outputs involved in each stage of the product's life cycle. This includes raw materials, energy consumption, emissions, and waste generation."
+  - "3. Impact Assessment: Here, the collected data is translated into potential environmental impacts. These impacts can include global warming potential, water usage, air and water pollution, and more."
+  - "4. Interpretation: The final phase involves interpreting the results and drawing conclusions. This could include identifying opportunities for improvement, comparing different products or processes, and making informed decisions based on the assessment."
+  - "Experts in the Field : "
+  - "LCA is a multidisciplinary field that draws expertise from various domains, including environmental science, engineering, economics, and sustainability. Professionals who specialize in LCA, often referred to as LCA experts, play a pivotal role in conducting thorough assessments and guiding organizations towards sustainable practices."
+  - "Qualifications of LCA Experts : "
+  - "LCA experts typically hold advanced degrees in relevant fields such as environmental science, engineering, or sustainability. They possess a deep understanding of environmental systems, statistical analysis, and life cycle thinking. Additionally, expertise in specialized LCA software and tools is crucial for conducting accurate and comprehensive assessments."
+  - "Roles and Responsibilities : "
+  - "1. Data Collection: Gathering accurate and comprehensive data on all aspects of the product or process under assessment."
+  - "2. Modeling: Using specialized software to create models that simulate the life cycle of the product and predict environmental impacts."
+  - "3. Analysis: Evaluating the environmental implications of different stages of the life cycle, considering factors such as energy use, emissions, and resource depletion."
+  - "4. Interpretation: Communicating findings in a clear and understandable manner, often providing recommendations for improvement."
+  - "5. Continuous Learning: Staying abreast of developments in environmental science, technology, and regulations to enhance the accuracy and relevance of assessments."
+  - "Why LCA Matters : "
+  - "1. Environmental Accountability: LCA holds entities accountable for the full environmental impact of their products or processes. This encourages transparency and fosters responsible practices."
+  - "2. Informed Decision-Making: Businesses armed with LCA data can make informed decisions about their operations, identifying areas for improvement and implementing sustainable practices."
+  - "3. Product Innovation: LCA can drive innovation by highlighting opportunities to reduce environmental impact through changes in design, materials, or production processes."
+  - "4. Regulatory Compliance: As environmental regulations become more stringent, LCA can help organizations ensure compliance and avoid legal and reputational risks."
+  - "5. Consumer Awareness: In an era where consumers prioritize sustainability, LCA provides the information needed for consumers to make environmentally conscious choices."
+  - "Industries and Sectors Applying LCA : "
+  - "1. Manufacturing :  In manufacturing, LCA is applied to assess the environmental impact of production processes, material selection, and waste management. This helps manufacturers identify opportunities to minimize resource use and emissions."
+  - "2. Agriculture : In the agricultural sector, LCA is utilized to evaluate the environmental footprint of food production. This includes assessing the impact of farming practices, irrigation, and transportation on the overall life cycle of food products."
+  - "3. Energy : LCA plays a crucial role in the energy sector, providing insights into the environmental impact of different energy sources and production methods. This information is vital for shaping sustainable energy policies."
+  - "4. Construction : In the construction industry, LCA is applied to assess the environmental impact of building materials, construction processes, and building operations. This helps in designing more sustainable and eco-friendly structures."
+  - "5. Consumer Goods : Companies producing consumer goods use LCA to understand the environmental impact of their products. This can lead to eco-friendly product design, packaging, and distribution strategies."
+  - "6. Transportation : The transportation sector utilizes LCA to evaluate the environmental impact of various modes of transportation, including cars, planes, and ships. This information is crucial for making decisions that reduce emissions and promote sustainability."
+  - "Challenges and Criticisms : "
+  - "While LCA is a powerful tool for sustainability, it is not without its challenges and criticisms. Some of the key issues include:"
+  - "1. Data Quality: LCA heavily relies on accurate and reliable data. Obtaining comprehensive and precise data for every stage of a product's life cycle can be challenging."
+  - "2. System Boundaries: Defining the boundaries of the system under assessment can be subjective and may impact the results."
+  - "3. Simplification: LCA models are simplifications of complex systems. The accuracy of results depends on the assumptions and simplifications made during the modeling process."
+  - "4. Interconnectedness of Impact Categories: Some environmental impact categories are interconnected, making it challenging to address one aspect without affecting others."
+  - "5. Dynamic Nature of Systems: Environmental systems are dynamic and can change over time. LCA results may not fully capture the evolving nature of these systems."
+  - "Future Trends in LCA : "
+  - "As technology advances and awareness of environmental issues grows, the field of LCA is poised to undergo significant developments. Some emerging trends include:"
+  - "1. Digitalization and Big Data: The use of big data and digital tools for data collection and analysis is expected to enhance the accuracy and efficiency of LCA."
+  - "2. Blockchain for Transparency: Blockchain technology may be employed to enhance transparency and traceability in supply chains, addressing concerns related to data reliability."
+  - "3. Integration with Circular Economy Principles: LCA will likely become more integrated with the principles of the circular economy, emphasizing the importance of reducing, reusing, and recycling."
+  - "4. AI and Machine Learning: The application of artificial intelligence and machine learning algorithms can optimize LCA models and improve predictions."
+  - "5. Standardization and Harmonization: Efforts to standardize LCA methodologies and metrics will enhance consistency and comparability across assessments."
+  - "Conclusion :"
+  - "Life Cycle Assessment is a powerful tool that has emerged as a cornerstone in the pursuit of sustainability. Its ability to provide a comprehensive understanding of the environmental impact of products and processes positions LCA as a vital instrument for businesses, policymakers, and consumers alike. As industries strive to reduce their ecological footprint, the role of LCA and its experts becomes increasingly critical in shaping a more sustainable and environmentally conscious future."
+
+# 'You can also browse the best CommonShare service providers by expertise:'
+category_specific_search:
+  title: Looking for something specific?
+  subtitle: "You can also browse the best CommonShare service providers by expertise"
+  categories:
+    - name: ESG Experts     
+      link_text: "See list >"
+      icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M20.998 3v2c0 9.627-5.373 14-12 14H5.241a17.14 17.14 0 0 0-.243 3h-2c0-1.363.116-2.6.346-3.732c-.23-1.294-.346-3.05-.346-5.268c0-5.523 4.477-10 10-10c2 0 4 1 8 0m-8 2a8 8 0 0 0-8 8c0 .362.003.711.01 1.046c1.254-1.978 3.091-3.541 5.494-4.914l.992 1.736C8.64 12.5 6.746 14.354 5.774 17h3.224c6.015 0 9.871-3.973 9.997-11.612c-1.372.133-2.647.048-4.22-.188c-1.15-.173-1.376-.2-1.777-.2"/></svg>'    
+      link_url: "#"
+    - name: CSRD Experts      
+      link_text: "See list >"
+      icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M16 21a5 5 0 1 1 0-10a5 5 0 0 1 0 10m0-8a3 3 0 1 0 0 6a3 3 0 0 0 0-6" class="ouiIcon__fillSecondary"/><path fill="currentColor" d="M20 32h-8v-4.06a1 1 0 0 0-1.61-.67l-2.88 2.87l-5.65-5.65l2.87-2.87a.92.92 0 0 0 .2-1a.93.93 0 0 0-.86-.6H0V12h4.06a.92.92 0 0 0 .85-.58a.94.94 0 0 0-.19-1L1.86 7.51l5.65-5.65l2.87 2.87A1 1 0 0 0 12 4.06V0h8v4.06a1 1 0 0 0 1.61.67l2.87-2.87l5.66 5.66l-2.87 2.87a.92.92 0 0 0-.2 1a.93.93 0 0 0 .86.6H32v8h-4.06a.92.92 0 0 0-.85.58a.94.94 0 0 0 .19 1l2.87 2.87l-5.66 5.66l-2.87-2.87a1 1 0 0 0-1.61.67zm-6-2h4v-2.06a3 3 0 0 1 5-2.08l1.46 1.46l2.83-2.83L25.86 23a3 3 0 0 1 2.08-5H30v-4h-2.06a3 3 0 0 1-2.08-5l1.46-1.46l-2.83-2.85L23 6.14a3 3 0 0 1-5-2.08V2h-4v2.06a3 3 0 0 1-5 2.08L7.51 4.69L4.69 7.51L6.14 9a3 3 0 0 1-2.08 5H2v4h2.06a3 3 0 0 1 2.08 5l-1.45 1.49l2.83 2.83L9 25.86a3 3 0 0 1 5 2.08z"/></svg>'
+      link_url: "#"
+    - name:  ESRS Experts
+      link_text: "See list >"
+      icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 32 32"><g fill="currentColor"><path d="M25 5h-.17v2H25a1 1 0 0 1 1 1v20a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h.17V5H7a3 3 0 0 0-3 3v20a3 3 0 0 0 3 3h18a3 3 0 0 0 3-3V8a3 3 0 0 0-3-3"/><path d="M23 3h-3V0h-8v3H9v6h14zm-2 4H11V5h3V2h4v3h3z"/><path d="M10 13h12v2H10zm0 5h12v2H10zm0 5h12v2H10z" class="ouiIcon__fillSecondary"/></g></svg>'
+      link_url: "#"
+    - name: SFDR Experts
+      link_text: "See list >"
+      icon_svg: '<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="m16 21l-.3-1.5q-.3-.125-.562-.262T14.6 18.9l-1.45.45l-1-1.7l1.15-1q-.05-.35-.05-.65t.05-.65l-1.15-1l1-1.7l1.45.45q.275-.2.538-.337t.562-.263L16 11h2l.3 1.5q.3.125.563.275t.537.375l1.45-.5l1 1.75l-1.15 1q.05.3.05.625t-.05.625l1.15 1l-1 1.7l-1.45-.45q-.275.2-.537.338t-.563.262L18 21zM2 20v-2.8q0-.825.425-1.55t1.175-1.1q1.275-.65 2.875-1.1T10 13h.35q.15 0 .3.05q-.725 1.8-.6 3.575T11.25 20zm15-2q.825 0 1.413-.587T19 16q0-.825-.587-1.412T17 14q-.825 0-1.412.588T15 16q0 .825.588 1.413T17 18m-7-6q-1.65 0-2.825-1.175T6 8q0-1.65 1.175-2.825T10 4q1.65 0 2.825 1.175T14 8q0 1.65-1.175 2.825T10 12"/></svg>' 
+      link_url: "#"
+
+
+educational_content:
+   title: "Read more about  LCA "
+   subtitle: "Read articles from CommonShare's blog about LCA"
+   content:
+   #no further info is provided for this section / lack data 
+     - slug: ''
